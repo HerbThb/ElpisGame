@@ -1,0 +1,1 @@
+cd /Develop/project/tea/source/trunk/teagame/client/build/qqplay && zip -r ../cmshow_game_3319.zip *

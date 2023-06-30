@@ -1,0 +1,21 @@
+[
+  {
+    "startDate": "2019-08-08 00:00:00",
+    "endDate": "2019-08-15 00:00:00",
+    "endShowDate": "2019-08-17 00:00:00",
+    "maxNameId": 334,
+    "maxIconId": 334,
+    "refreshWorldTime": [
+      9,
+      12,
+      15,
+      18,
+      21,
+      24,
+      0
+    ],
+    "realRewardCount": 10,
+    "holidayPKRankInterval": 300,
+    "realPlayerNum": 20
+  }
+]

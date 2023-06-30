@@ -1,0 +1,2641 @@
+[
+  {
+    "star": 0,
+    "attackPower": 10,
+    "defencePower": 15,
+    "speedPower": 0,
+    "goldPower": 0
+  },
+  {
+    "star": 1,
+    "attackPower": 10,
+    "defencePower": 15,
+    "speedPower": 0,
+    "goldPower": 0
+  },
+  {
+    "star": 2,
+    "attackPower": 10,
+    "defencePower": 15,
+    "speedPower": 0,
+    "goldPower": 0
+  },
+  {
+    "star": 3,
+    "attackPower": 10,
+    "defencePower": 15,
+    "speedPower": 0,
+    "goldPower": 0
+  },
+  {
+    "star": 4,
+    "attackPower": 10,
+    "defencePower": 15,
+    "speedPower": 0.004,
+    "goldPower": 50
+  },
+  {
+    "star": 5,
+    "attackPower": 10,
+    "defencePower": 15,
+    "speedPower": 0.004,
+    "goldPower": 50
+  },
+  {
+    "star": 6,
+    "attackPower": 10,
+    "defencePower": 15,
+    "speedPower": 0.004,
+    "goldPower": 50
+  },
+  {
+    "star": 7,
+    "attackPower": 10,
+    "defencePower": 15,
+    "speedPower": 0.008,
+    "goldPower": 100
+  },
+  {
+    "star": 8,
+    "attackPower": 10,
+    "defencePower": 15,
+    "speedPower": 0.008,
+    "goldPower": 100
+  },
+  {
+    "star": 9,
+    "attackPower": 10,
+    "defencePower": 15,
+    "speedPower": 0.028,
+    "goldPower": 350
+  },
+  {
+    "star": 10,
+    "attackPower": 10,
+    "defencePower": 15,
+    "speedPower": 0.032,
+    "goldPower": 400
+  },
+  {
+    "star": 11,
+    "attackPower": 10,
+    "defencePower": 15,
+    "speedPower": 0.032,
+    "goldPower": 400
+  },
+  {
+    "star": 12,
+    "attackPower": 10,
+    "defencePower": 15,
+    "speedPower": 0.032,
+    "goldPower": 400
+  },
+  {
+    "star": 13,
+    "attackPower": 10,
+    "defencePower": 15,
+    "speedPower": 0.032,
+    "goldPower": 400
+  },
+  {
+    "star": 14,
+    "attackPower": 10,
+    "defencePower": 15,
+    "speedPower": 0.036,
+    "goldPower": 450
+  },
+  {
+    "star": 15,
+    "attackPower": 10,
+    "defencePower": 15,
+    "speedPower": 0.036,
+    "goldPower": 450
+  },
+  {
+    "star": 16,
+    "attackPower": 10,
+    "defencePower": 15,
+    "speedPower": 0.036,
+    "goldPower": 450
+  },
+  {
+    "star": 17,
+    "attackPower": 10,
+    "defencePower": 15,
+    "speedPower": 0.052,
+    "goldPower": 650
+  },
+  {
+    "star": 18,
+    "attackPower": 10,
+    "defencePower": 15,
+    "speedPower": 0.052,
+    "goldPower": 650
+  },
+  {
+    "star": 19,
+    "attackPower": 10,
+    "defencePower": 15,
+    "speedPower": 0.056,
+    "goldPower": 700
+  },
+  {
+    "star": 20,
+    "attackPower": 10,
+    "defencePower": 15,
+    "speedPower": 0.056,
+    "goldPower": 700
+  },
+  {
+    "star": 21,
+    "attackPower": 11,
+    "defencePower": 18,
+    "speedPower": 0.056,
+    "goldPower": 700
+  },
+  {
+    "star": 22,
+    "attackPower": 13,
+    "defencePower": 21,
+    "speedPower": 0.056,
+    "goldPower": 700
+  },
+  {
+    "star": 23,
+    "attackPower": 17,
+    "defencePower": 29,
+    "speedPower": 0.06,
+    "goldPower": 750
+  },
+  {
+    "star": 24,
+    "attackPower": 16,
+    "defencePower": 27,
+    "speedPower": 0.06,
+    "goldPower": 750
+  },
+  {
+    "star": 25,
+    "attackPower": 18,
+    "defencePower": 30,
+    "speedPower": 0.076,
+    "goldPower": 950
+  },
+  {
+    "star": 26,
+    "attackPower": 23,
+    "defencePower": 38,
+    "speedPower": 0.08,
+    "goldPower": 1000
+  },
+  {
+    "star": 27,
+    "attackPower": 22,
+    "defencePower": 36,
+    "speedPower": 0.08,
+    "goldPower": 1000
+  },
+  {
+    "star": 28,
+    "attackPower": 23,
+    "defencePower": 39,
+    "speedPower": 0.08,
+    "goldPower": 1000
+  },
+  {
+    "star": 29,
+    "attackPower": 28,
+    "defencePower": 47,
+    "speedPower": 0.08,
+    "goldPower": 1000
+  },
+  {
+    "star": 30,
+    "attackPower": 32,
+    "defencePower": 46,
+    "speedPower": 0.08,
+    "goldPower": 1000
+  },
+  {
+    "star": 31,
+    "attackPower": 35,
+    "defencePower": 50,
+    "speedPower": 0.084,
+    "goldPower": 1050
+  },
+  {
+    "star": 32,
+    "attackPower": 38,
+    "defencePower": 54,
+    "speedPower": 0.084,
+    "goldPower": 1050
+  },
+  {
+    "star": 33,
+    "attackPower": 46,
+    "defencePower": 65,
+    "speedPower": 0.1,
+    "goldPower": 1250
+  },
+  {
+    "star": 34,
+    "attackPower": 43,
+    "defencePower": 62,
+    "speedPower": 0.104,
+    "goldPower": 1300
+  },
+  {
+    "star": 35,
+    "attackPower": 45,
+    "defencePower": 64,
+    "speedPower": 0.104,
+    "goldPower": 1300
+  },
+  {
+    "star": 36,
+    "attackPower": 46,
+    "defencePower": 66,
+    "speedPower": 0.104,
+    "goldPower": 1300
+  },
+  {
+    "star": 37,
+    "attackPower": 53,
+    "defencePower": 75,
+    "speedPower": 0.104,
+    "goldPower": 1300
+  },
+  {
+    "star": 38,
+    "attackPower": 48,
+    "defencePower": 69,
+    "speedPower": 0.104,
+    "goldPower": 1300
+  },
+  {
+    "star": 39,
+    "attackPower": 48,
+    "defencePower": 69,
+    "speedPower": 0.108,
+    "goldPower": 1350
+  },
+  {
+    "star": 40,
+    "attackPower": 48,
+    "defencePower": 69,
+    "speedPower": 0.108,
+    "goldPower": 1350
+  },
+  {
+    "star": 41,
+    "attackPower": 55,
+    "defencePower": 79,
+    "speedPower": 0.119,
+    "goldPower": 1500
+  },
+  {
+    "star": 42,
+    "attackPower": 50,
+    "defencePower": 72,
+    "speedPower": 0.119,
+    "goldPower": 1500
+  },
+  {
+    "star": 43,
+    "attackPower": 51,
+    "defencePower": 73,
+    "speedPower": 0.119,
+    "goldPower": 1500
+  },
+  {
+    "star": 44,
+    "attackPower": 51,
+    "defencePower": 73,
+    "speedPower": 0.119,
+    "goldPower": 1500
+  },
+  {
+    "star": 45,
+    "attackPower": 56,
+    "defencePower": 80,
+    "speedPower": 0.119,
+    "goldPower": 1500
+  },
+  {
+    "star": 46,
+    "attackPower": 51,
+    "defencePower": 73,
+    "speedPower": 0.122,
+    "goldPower": 1550
+  },
+  {
+    "star": 47,
+    "attackPower": 51,
+    "defencePower": 73,
+    "speedPower": 0.122,
+    "goldPower": 1550
+  },
+  {
+    "star": 48,
+    "attackPower": 51,
+    "defencePower": 73,
+    "speedPower": 0.122,
+    "goldPower": 1550
+  },
+  {
+    "star": 49,
+    "attackPower": 58,
+    "defencePower": 83,
+    "speedPower": 0.131,
+    "goldPower": 1700
+  },
+  {
+    "star": 50,
+    "attackPower": 53,
+    "defencePower": 76,
+    "speedPower": 0.131,
+    "goldPower": 1700
+  },
+  {
+    "star": 51,
+    "attackPower": 53,
+    "defencePower": 76,
+    "speedPower": 0.131,
+    "goldPower": 1700
+  },
+  {
+    "star": 52,
+    "attackPower": 53,
+    "defencePower": 76,
+    "speedPower": 0.131,
+    "goldPower": 1700
+  },
+  {
+    "star": 53,
+    "attackPower": 59,
+    "defencePower": 84,
+    "speedPower": 0.131,
+    "goldPower": 1700
+  },
+  {
+    "star": 54,
+    "attackPower": 54,
+    "defencePower": 77,
+    "speedPower": 0.131,
+    "goldPower": 1700
+  },
+  {
+    "star": 55,
+    "attackPower": 54,
+    "defencePower": 77,
+    "speedPower": 0.131,
+    "goldPower": 1700
+  },
+  {
+    "star": 56,
+    "attackPower": 54,
+    "defencePower": 77,
+    "speedPower": 0.134,
+    "goldPower": 1750
+  },
+  {
+    "star": 57,
+    "attackPower": 61,
+    "defencePower": 87,
+    "speedPower": 0.14,
+    "goldPower": 1850
+  },
+  {
+    "star": 58,
+    "attackPower": 64,
+    "defencePower": 80,
+    "speedPower": 0.14,
+    "goldPower": 1850
+  },
+  {
+    "star": 59,
+    "attackPower": 64,
+    "defencePower": 80,
+    "speedPower": 0.14,
+    "goldPower": 1850
+  },
+  {
+    "star": 60,
+    "attackPower": 64,
+    "defencePower": 80,
+    "speedPower": 0.143,
+    "goldPower": 1900
+  },
+  {
+    "star": 61,
+    "attackPower": 64,
+    "defencePower": 80,
+    "speedPower": 0.143,
+    "goldPower": 1900
+  },
+  {
+    "star": 62,
+    "attackPower": 72,
+    "defencePower": 90,
+    "speedPower": 0.143,
+    "goldPower": 1900
+  },
+  {
+    "star": 63,
+    "attackPower": 65,
+    "defencePower": 81,
+    "speedPower": 0.143,
+    "goldPower": 1900
+  },
+  {
+    "star": 64,
+    "attackPower": 65,
+    "defencePower": 81,
+    "speedPower": 0.143,
+    "goldPower": 1900
+  },
+  {
+    "star": 65,
+    "attackPower": 66,
+    "defencePower": 83,
+    "speedPower": 0.149,
+    "goldPower": 2000
+  },
+  {
+    "star": 66,
+    "attackPower": 66,
+    "defencePower": 83,
+    "speedPower": 0.149,
+    "goldPower": 2000
+  },
+  {
+    "star": 67,
+    "attackPower": 74,
+    "defencePower": 93,
+    "speedPower": 0.149,
+    "goldPower": 2000
+  },
+  {
+    "star": 68,
+    "attackPower": 66,
+    "defencePower": 83,
+    "speedPower": 0.149,
+    "goldPower": 2000
+  },
+  {
+    "star": 69,
+    "attackPower": 66,
+    "defencePower": 83,
+    "speedPower": 0.149,
+    "goldPower": 2000
+  },
+  {
+    "star": 70,
+    "attackPower": 66,
+    "defencePower": 83,
+    "speedPower": 0.149,
+    "goldPower": 2000
+  },
+  {
+    "star": 71,
+    "attackPower": 66,
+    "defencePower": 83,
+    "speedPower": 0.152,
+    "goldPower": 2050
+  },
+  {
+    "star": 72,
+    "attackPower": 74,
+    "defencePower": 93,
+    "speedPower": 0.152,
+    "goldPower": 2050
+  },
+  {
+    "star": 73,
+    "attackPower": 68,
+    "defencePower": 85,
+    "speedPower": 0.155,
+    "goldPower": 2100
+  },
+  {
+    "star": 74,
+    "attackPower": 68,
+    "defencePower": 85,
+    "speedPower": 0.155,
+    "goldPower": 2100
+  },
+  {
+    "star": 75,
+    "attackPower": 68,
+    "defencePower": 85,
+    "speedPower": 0.158,
+    "goldPower": 2150
+  },
+  {
+    "star": 76,
+    "attackPower": 68,
+    "defencePower": 85,
+    "speedPower": 0.158,
+    "goldPower": 2150
+  },
+  {
+    "star": 77,
+    "attackPower": 76,
+    "defencePower": 95,
+    "speedPower": 0.158,
+    "goldPower": 2150
+  },
+  {
+    "star": 78,
+    "attackPower": 69,
+    "defencePower": 86,
+    "speedPower": 0.158,
+    "goldPower": 2150
+  },
+  {
+    "star": 79,
+    "attackPower": 69,
+    "defencePower": 86,
+    "speedPower": 0.158,
+    "goldPower": 2150
+  },
+  {
+    "star": 80,
+    "attackPower": 69,
+    "defencePower": 86,
+    "speedPower": 0.158,
+    "goldPower": 2150
+  },
+  {
+    "star": 81,
+    "attackPower": 70,
+    "defencePower": 87,
+    "speedPower": 0.164,
+    "goldPower": 2250
+  },
+  {
+    "star": 82,
+    "attackPower": 78,
+    "defencePower": 97,
+    "speedPower": 0.164,
+    "goldPower": 2250
+  },
+  {
+    "star": 83,
+    "attackPower": 70,
+    "defencePower": 88,
+    "speedPower": 0.164,
+    "goldPower": 2250
+  },
+  {
+    "star": 84,
+    "attackPower": 70,
+    "defencePower": 88,
+    "speedPower": 0.164,
+    "goldPower": 2250
+  },
+  {
+    "star": 85,
+    "attackPower": 70,
+    "defencePower": 88,
+    "speedPower": 0.164,
+    "goldPower": 2250
+  },
+  {
+    "star": 86,
+    "attackPower": 70,
+    "defencePower": 88,
+    "speedPower": 0.164,
+    "goldPower": 2250
+  },
+  {
+    "star": 87,
+    "attackPower": 78,
+    "defencePower": 98,
+    "speedPower": 0.164,
+    "goldPower": 2250
+  },
+  {
+    "star": 88,
+    "attackPower": 70,
+    "defencePower": 88,
+    "speedPower": 0.164,
+    "goldPower": 2250
+  },
+  {
+    "star": 89,
+    "attackPower": 72,
+    "defencePower": 90,
+    "speedPower": 0.17,
+    "goldPower": 2350
+  },
+  {
+    "star": 90,
+    "attackPower": 72,
+    "defencePower": 90,
+    "speedPower": 0.17,
+    "goldPower": 2350
+  },
+  {
+    "star": 91,
+    "attackPower": 72,
+    "defencePower": 90,
+    "speedPower": 0.17,
+    "goldPower": 2350
+  },
+  {
+    "star": 92,
+    "attackPower": 80,
+    "defencePower": 100,
+    "speedPower": 0.17,
+    "goldPower": 2350
+  },
+  {
+    "star": 93,
+    "attackPower": 72,
+    "defencePower": 90,
+    "speedPower": 0.17,
+    "goldPower": 2350
+  },
+  {
+    "star": 94,
+    "attackPower": 72,
+    "defencePower": 90,
+    "speedPower": 0.17,
+    "goldPower": 2350
+  },
+  {
+    "star": 95,
+    "attackPower": 72,
+    "defencePower": 90,
+    "speedPower": 0.17,
+    "goldPower": 2350
+  },
+  {
+    "star": 96,
+    "attackPower": 72,
+    "defencePower": 90,
+    "speedPower": 0.173,
+    "goldPower": 2400
+  },
+  {
+    "star": 97,
+    "attackPower": 81,
+    "defencePower": 101,
+    "speedPower": 0.176,
+    "goldPower": 2450
+  },
+  {
+    "star": 98,
+    "attackPower": 73,
+    "defencePower": 91,
+    "speedPower": 0.176,
+    "goldPower": 2450
+  },
+  {
+    "star": 99,
+    "attackPower": 74,
+    "defencePower": 92,
+    "speedPower": 0.176,
+    "goldPower": 2450
+  },
+  {
+    "star": 100,
+    "attackPower": 74,
+    "defencePower": 92,
+    "speedPower": 0.176,
+    "goldPower": 2450
+  },
+  {
+    "star": 101,
+    "attackPower": 74,
+    "defencePower": 92,
+    "speedPower": 0.176,
+    "goldPower": 2450
+  },
+  {
+    "star": 102,
+    "attackPower": 82,
+    "defencePower": 102,
+    "speedPower": 0.176,
+    "goldPower": 2450
+  },
+  {
+    "star": 103,
+    "attackPower": 83,
+    "defencePower": 92,
+    "speedPower": 0.176,
+    "goldPower": 2450
+  },
+  {
+    "star": 104,
+    "attackPower": 83,
+    "defencePower": 92,
+    "speedPower": 0.176,
+    "goldPower": 2450
+  },
+  {
+    "star": 105,
+    "attackPower": 83,
+    "defencePower": 92,
+    "speedPower": 0.178,
+    "goldPower": 2500
+  },
+  {
+    "star": 106,
+    "attackPower": 83,
+    "defencePower": 92,
+    "speedPower": 0.178,
+    "goldPower": 2500
+  },
+  {
+    "star": 107,
+    "attackPower": 83,
+    "defencePower": 92,
+    "speedPower": 0.178,
+    "goldPower": 2500
+  },
+  {
+    "star": 108,
+    "attackPower": 83,
+    "defencePower": 92,
+    "speedPower": 0.178,
+    "goldPower": 2500
+  },
+  {
+    "star": 109,
+    "attackPower": 83,
+    "defencePower": 92,
+    "speedPower": 0.178,
+    "goldPower": 2500
+  },
+  {
+    "star": 110,
+    "attackPower": 83,
+    "defencePower": 92,
+    "speedPower": 0.178,
+    "goldPower": 2500
+  },
+  {
+    "star": 111,
+    "attackPower": 83,
+    "defencePower": 92,
+    "speedPower": 0.178,
+    "goldPower": 2500
+  },
+  {
+    "star": 112,
+    "attackPower": 84,
+    "defencePower": 93,
+    "speedPower": 0.178,
+    "goldPower": 2500
+  },
+  {
+    "star": 113,
+    "attackPower": 84,
+    "defencePower": 93,
+    "speedPower": 0.18,
+    "goldPower": 2550
+  },
+  {
+    "star": 114,
+    "attackPower": 84,
+    "defencePower": 93,
+    "speedPower": 0.18,
+    "goldPower": 2550
+  },
+  {
+    "star": 115,
+    "attackPower": 84,
+    "defencePower": 93,
+    "speedPower": 0.18,
+    "goldPower": 2550
+  },
+  {
+    "star": 116,
+    "attackPower": 84,
+    "defencePower": 93,
+    "speedPower": 0.18,
+    "goldPower": 2550
+  },
+  {
+    "star": 117,
+    "attackPower": 84,
+    "defencePower": 93,
+    "speedPower": 0.18,
+    "goldPower": 2550
+  },
+  {
+    "star": 118,
+    "attackPower": 84,
+    "defencePower": 93,
+    "speedPower": 0.18,
+    "goldPower": 2550
+  },
+  {
+    "star": 119,
+    "attackPower": 84,
+    "defencePower": 93,
+    "speedPower": 0.18,
+    "goldPower": 2550
+  },
+  {
+    "star": 120,
+    "attackPower": 85,
+    "defencePower": 94,
+    "speedPower": 0.18,
+    "goldPower": 2550
+  },
+  {
+    "star": 121,
+    "attackPower": 85,
+    "defencePower": 94,
+    "speedPower": 0.182,
+    "goldPower": 2600
+  },
+  {
+    "star": 122,
+    "attackPower": 85,
+    "defencePower": 94,
+    "speedPower": 0.182,
+    "goldPower": 2600
+  },
+  {
+    "star": 123,
+    "attackPower": 85,
+    "defencePower": 94,
+    "speedPower": 0.182,
+    "goldPower": 2600
+  },
+  {
+    "star": 124,
+    "attackPower": 85,
+    "defencePower": 94,
+    "speedPower": 0.182,
+    "goldPower": 2600
+  },
+  {
+    "star": 125,
+    "attackPower": 85,
+    "defencePower": 94,
+    "speedPower": 0.182,
+    "goldPower": 2600
+  },
+  {
+    "star": 126,
+    "attackPower": 85,
+    "defencePower": 94,
+    "speedPower": 0.182,
+    "goldPower": 2600
+  },
+  {
+    "star": 127,
+    "attackPower": 85,
+    "defencePower": 94,
+    "speedPower": 0.182,
+    "goldPower": 2600
+  },
+  {
+    "star": 128,
+    "attackPower": 86,
+    "defencePower": 95,
+    "speedPower": 0.182,
+    "goldPower": 2600
+  },
+  {
+    "star": 129,
+    "attackPower": 86,
+    "defencePower": 95,
+    "speedPower": 0.184,
+    "goldPower": 2650
+  },
+  {
+    "star": 130,
+    "attackPower": 86,
+    "defencePower": 95,
+    "speedPower": 0.184,
+    "goldPower": 2650
+  },
+  {
+    "star": 131,
+    "attackPower": 86,
+    "defencePower": 95,
+    "speedPower": 0.184,
+    "goldPower": 2650
+  },
+  {
+    "star": 132,
+    "attackPower": 86,
+    "defencePower": 95,
+    "speedPower": 0.184,
+    "goldPower": 2650
+  },
+  {
+    "star": 133,
+    "attackPower": 86,
+    "defencePower": 95,
+    "speedPower": 0.184,
+    "goldPower": 2650
+  },
+  {
+    "star": 134,
+    "attackPower": 86,
+    "defencePower": 95,
+    "speedPower": 0.184,
+    "goldPower": 2650
+  },
+  {
+    "star": 135,
+    "attackPower": 86,
+    "defencePower": 95,
+    "speedPower": 0.184,
+    "goldPower": 2650
+  },
+  {
+    "star": 136,
+    "attackPower": 86,
+    "defencePower": 96,
+    "speedPower": 0.184,
+    "goldPower": 2650
+  },
+  {
+    "star": 137,
+    "attackPower": 86,
+    "defencePower": 96,
+    "speedPower": 0.186,
+    "goldPower": 2700
+  },
+  {
+    "star": 138,
+    "attackPower": 86,
+    "defencePower": 96,
+    "speedPower": 0.186,
+    "goldPower": 2700
+  },
+  {
+    "star": 139,
+    "attackPower": 86,
+    "defencePower": 96,
+    "speedPower": 0.186,
+    "goldPower": 2700
+  },
+  {
+    "star": 140,
+    "attackPower": 86,
+    "defencePower": 96,
+    "speedPower": 0.186,
+    "goldPower": 2700
+  },
+  {
+    "star": 141,
+    "attackPower": 86,
+    "defencePower": 96,
+    "speedPower": 0.186,
+    "goldPower": 2700
+  },
+  {
+    "star": 142,
+    "attackPower": 86,
+    "defencePower": 96,
+    "speedPower": 0.186,
+    "goldPower": 2700
+  },
+  {
+    "star": 143,
+    "attackPower": 86,
+    "defencePower": 96,
+    "speedPower": 0.186,
+    "goldPower": 2700
+  },
+  {
+    "star": 144,
+    "attackPower": 87,
+    "defencePower": 97,
+    "speedPower": 0.186,
+    "goldPower": 2700
+  },
+  {
+    "star": 145,
+    "attackPower": 87,
+    "defencePower": 97,
+    "speedPower": 0.188,
+    "goldPower": 2750
+  },
+  {
+    "star": 146,
+    "attackPower": 87,
+    "defencePower": 97,
+    "speedPower": 0.188,
+    "goldPower": 2750
+  },
+  {
+    "star": 147,
+    "attackPower": 87,
+    "defencePower": 97,
+    "speedPower": 0.188,
+    "goldPower": 2750
+  },
+  {
+    "star": 148,
+    "attackPower": 87,
+    "defencePower": 97,
+    "speedPower": 0.188,
+    "goldPower": 2750
+  },
+  {
+    "star": 149,
+    "attackPower": 87,
+    "defencePower": 97,
+    "speedPower": 0.188,
+    "goldPower": 2750
+  },
+  {
+    "star": 150,
+    "attackPower": 87,
+    "defencePower": 97,
+    "speedPower": 0.188,
+    "goldPower": 2750
+  },
+  {
+    "star": 151,
+    "attackPower": 87,
+    "defencePower": 97,
+    "speedPower": 0.188,
+    "goldPower": 2750
+  },
+  {
+    "star": 152,
+    "attackPower": 88,
+    "defencePower": 98,
+    "speedPower": 0.188,
+    "goldPower": 2750
+  },
+  {
+    "star": 153,
+    "attackPower": 88,
+    "defencePower": 98,
+    "speedPower": 0.19,
+    "goldPower": 2800
+  },
+  {
+    "star": 154,
+    "attackPower": 88,
+    "defencePower": 98,
+    "speedPower": 0.19,
+    "goldPower": 2800
+  },
+  {
+    "star": 155,
+    "attackPower": 88,
+    "defencePower": 98,
+    "speedPower": 0.19,
+    "goldPower": 2800
+  },
+  {
+    "star": 156,
+    "attackPower": 88,
+    "defencePower": 98,
+    "speedPower": 0.19,
+    "goldPower": 2800
+  },
+  {
+    "star": 157,
+    "attackPower": 88,
+    "defencePower": 98,
+    "speedPower": 0.19,
+    "goldPower": 2800
+  },
+  {
+    "star": 158,
+    "attackPower": 88,
+    "defencePower": 98,
+    "speedPower": 0.19,
+    "goldPower": 2800
+  },
+  {
+    "star": 159,
+    "attackPower": 88,
+    "defencePower": 98,
+    "speedPower": 0.19,
+    "goldPower": 2800
+  },
+  {
+    "star": 160,
+    "attackPower": 89,
+    "defencePower": 99,
+    "speedPower": 0.19,
+    "goldPower": 2800
+  },
+  {
+    "star": 161,
+    "attackPower": 89,
+    "defencePower": 99,
+    "speedPower": 0.192,
+    "goldPower": 2850
+  },
+  {
+    "star": 162,
+    "attackPower": 89,
+    "defencePower": 99,
+    "speedPower": 0.192,
+    "goldPower": 2850
+  },
+  {
+    "star": 163,
+    "attackPower": 89,
+    "defencePower": 99,
+    "speedPower": 0.192,
+    "goldPower": 2850
+  },
+  {
+    "star": 164,
+    "attackPower": 89,
+    "defencePower": 99,
+    "speedPower": 0.192,
+    "goldPower": 2850
+  },
+  {
+    "star": 165,
+    "attackPower": 89,
+    "defencePower": 99,
+    "speedPower": 0.192,
+    "goldPower": 2850
+  },
+  {
+    "star": 166,
+    "attackPower": 89,
+    "defencePower": 99,
+    "speedPower": 0.192,
+    "goldPower": 2850
+  },
+  {
+    "star": 167,
+    "attackPower": 89,
+    "defencePower": 99,
+    "speedPower": 0.192,
+    "goldPower": 2850
+  },
+  {
+    "star": 168,
+    "attackPower": 90,
+    "defencePower": 100,
+    "speedPower": 0.192,
+    "goldPower": 2850
+  },
+  {
+    "star": 169,
+    "attackPower": 90,
+    "defencePower": 100,
+    "speedPower": 0.194,
+    "goldPower": 2900
+  },
+  {
+    "star": 170,
+    "attackPower": 90,
+    "defencePower": 100,
+    "speedPower": 0.194,
+    "goldPower": 2900
+  },
+  {
+    "star": 171,
+    "attackPower": 90,
+    "defencePower": 100,
+    "speedPower": 0.194,
+    "goldPower": 2900
+  },
+  {
+    "star": 172,
+    "attackPower": 90,
+    "defencePower": 100,
+    "speedPower": 0.194,
+    "goldPower": 2900
+  },
+  {
+    "star": 173,
+    "attackPower": 90,
+    "defencePower": 100,
+    "speedPower": 0.194,
+    "goldPower": 2900
+  },
+  {
+    "star": 174,
+    "attackPower": 90,
+    "defencePower": 100,
+    "speedPower": 0.194,
+    "goldPower": 2900
+  },
+  {
+    "star": 175,
+    "attackPower": 90,
+    "defencePower": 100,
+    "speedPower": 0.194,
+    "goldPower": 2900
+  },
+  {
+    "star": 176,
+    "attackPower": 91,
+    "defencePower": 101,
+    "speedPower": 0.194,
+    "goldPower": 2900
+  },
+  {
+    "star": 177,
+    "attackPower": 91,
+    "defencePower": 101,
+    "speedPower": 0.196,
+    "goldPower": 2950
+  },
+  {
+    "star": 178,
+    "attackPower": 91,
+    "defencePower": 101,
+    "speedPower": 0.196,
+    "goldPower": 2950
+  },
+  {
+    "star": 179,
+    "attackPower": 91,
+    "defencePower": 101,
+    "speedPower": 0.196,
+    "goldPower": 2950
+  },
+  {
+    "star": 180,
+    "attackPower": 91,
+    "defencePower": 101,
+    "speedPower": 0.196,
+    "goldPower": 2950
+  },
+  {
+    "star": 181,
+    "attackPower": 91,
+    "defencePower": 101,
+    "speedPower": 0.196,
+    "goldPower": 2950
+  },
+  {
+    "star": 182,
+    "attackPower": 91,
+    "defencePower": 101,
+    "speedPower": 0.196,
+    "goldPower": 2950
+  },
+  {
+    "star": 183,
+    "attackPower": 91,
+    "defencePower": 101,
+    "speedPower": 0.196,
+    "goldPower": 2950
+  },
+  {
+    "star": 184,
+    "attackPower": 92,
+    "defencePower": 102,
+    "speedPower": 0.196,
+    "goldPower": 2950
+  },
+  {
+    "star": 185,
+    "attackPower": 92,
+    "defencePower": 102,
+    "speedPower": 0.198,
+    "goldPower": 3000
+  },
+  {
+    "star": 186,
+    "attackPower": 92,
+    "defencePower": 102,
+    "speedPower": 0.198,
+    "goldPower": 3000
+  },
+  {
+    "star": 187,
+    "attackPower": 92,
+    "defencePower": 102,
+    "speedPower": 0.198,
+    "goldPower": 3000
+  },
+  {
+    "star": 188,
+    "attackPower": 92,
+    "defencePower": 102,
+    "speedPower": 0.198,
+    "goldPower": 3000
+  },
+  {
+    "star": 189,
+    "attackPower": 92,
+    "defencePower": 102,
+    "speedPower": 0.198,
+    "goldPower": 3000
+  },
+  {
+    "star": 190,
+    "attackPower": 92,
+    "defencePower": 102,
+    "speedPower": 0.198,
+    "goldPower": 3000
+  },
+  {
+    "star": 191,
+    "attackPower": 92,
+    "defencePower": 102,
+    "speedPower": 0.198,
+    "goldPower": 3000
+  },
+  {
+    "star": 192,
+    "attackPower": 93,
+    "defencePower": 103,
+    "speedPower": 0.198,
+    "goldPower": 3000
+  },
+  {
+    "star": 193,
+    "attackPower": 93,
+    "defencePower": 103,
+    "speedPower": 0.2,
+    "goldPower": 3050
+  },
+  {
+    "star": 194,
+    "attackPower": 93,
+    "defencePower": 103,
+    "speedPower": 0.2,
+    "goldPower": 3050
+  },
+  {
+    "star": 195,
+    "attackPower": 93,
+    "defencePower": 103,
+    "speedPower": 0.2,
+    "goldPower": 3050
+  },
+  {
+    "star": 196,
+    "attackPower": 93,
+    "defencePower": 103,
+    "speedPower": 0.2,
+    "goldPower": 3050
+  },
+  {
+    "star": 197,
+    "attackPower": 93,
+    "defencePower": 103,
+    "speedPower": 0.2,
+    "goldPower": 3050
+  },
+  {
+    "star": 198,
+    "attackPower": 93,
+    "defencePower": 103,
+    "speedPower": 0.2,
+    "goldPower": 3050
+  },
+  {
+    "star": 199,
+    "attackPower": 93,
+    "defencePower": 103,
+    "speedPower": 0.2,
+    "goldPower": 3050
+  },
+  {
+    "star": 200,
+    "attackPower": 94,
+    "defencePower": 104,
+    "speedPower": 0.2,
+    "goldPower": 3050
+  },
+  {
+    "star": 201,
+    "attackPower": 94,
+    "defencePower": 104,
+    "speedPower": 0.202,
+    "goldPower": 3100
+  },
+  {
+    "star": 202,
+    "attackPower": 94,
+    "defencePower": 104,
+    "speedPower": 0.202,
+    "goldPower": 3100
+  },
+  {
+    "star": 203,
+    "attackPower": 94,
+    "defencePower": 104,
+    "speedPower": 0.202,
+    "goldPower": 3100
+  },
+  {
+    "star": 204,
+    "attackPower": 94,
+    "defencePower": 104,
+    "speedPower": 0.202,
+    "goldPower": 3100
+  },
+  {
+    "star": 205,
+    "attackPower": 94,
+    "defencePower": 104,
+    "speedPower": 0.202,
+    "goldPower": 3100
+  },
+  {
+    "star": 206,
+    "attackPower": 94,
+    "defencePower": 104,
+    "speedPower": 0.202,
+    "goldPower": 3100
+  },
+  {
+    "star": 207,
+    "attackPower": 94,
+    "defencePower": 104,
+    "speedPower": 0.202,
+    "goldPower": 3100
+  },
+  {
+    "star": 208,
+    "attackPower": 95,
+    "defencePower": 105,
+    "speedPower": 0.202,
+    "goldPower": 3100
+  },
+  {
+    "star": 209,
+    "attackPower": 95,
+    "defencePower": 105,
+    "speedPower": 0.204,
+    "goldPower": 3150
+  },
+  {
+    "star": 210,
+    "attackPower": 95,
+    "defencePower": 105,
+    "speedPower": 0.204,
+    "goldPower": 3150
+  },
+  {
+    "star": 211,
+    "attackPower": 95,
+    "defencePower": 105,
+    "speedPower": 0.204,
+    "goldPower": 3150
+  },
+  {
+    "star": 212,
+    "attackPower": 95,
+    "defencePower": 105,
+    "speedPower": 0.204,
+    "goldPower": 3150
+  },
+  {
+    "star": 213,
+    "attackPower": 95,
+    "defencePower": 105,
+    "speedPower": 0.204,
+    "goldPower": 3150
+  },
+  {
+    "star": 214,
+    "attackPower": 95,
+    "defencePower": 105,
+    "speedPower": 0.204,
+    "goldPower": 3150
+  },
+  {
+    "star": 215,
+    "attackPower": 95,
+    "defencePower": 105,
+    "speedPower": 0.204,
+    "goldPower": 3150
+  },
+  {
+    "star": 216,
+    "attackPower": 95,
+    "defencePower": 106,
+    "speedPower": 0.204,
+    "goldPower": 3150
+  },
+  {
+    "star": 217,
+    "attackPower": 95,
+    "defencePower": 106,
+    "speedPower": 0.206,
+    "goldPower": 3200
+  },
+  {
+    "star": 218,
+    "attackPower": 95,
+    "defencePower": 106,
+    "speedPower": 0.206,
+    "goldPower": 3200
+  },
+  {
+    "star": 219,
+    "attackPower": 95,
+    "defencePower": 106,
+    "speedPower": 0.206,
+    "goldPower": 3200
+  },
+  {
+    "star": 220,
+    "attackPower": 95,
+    "defencePower": 106,
+    "speedPower": 0.206,
+    "goldPower": 3200
+  },
+  {
+    "star": 221,
+    "attackPower": 95,
+    "defencePower": 106,
+    "speedPower": 0.206,
+    "goldPower": 3200
+  },
+  {
+    "star": 222,
+    "attackPower": 95,
+    "defencePower": 106,
+    "speedPower": 0.206,
+    "goldPower": 3200
+  },
+  {
+    "star": 223,
+    "attackPower": 95,
+    "defencePower": 106,
+    "speedPower": 0.206,
+    "goldPower": 3200
+  },
+  {
+    "star": 224,
+    "attackPower": 96,
+    "defencePower": 107,
+    "speedPower": 0.206,
+    "goldPower": 3200
+  },
+  {
+    "star": 225,
+    "attackPower": 96,
+    "defencePower": 107,
+    "speedPower": 0.208,
+    "goldPower": 3250
+  },
+  {
+    "star": 226,
+    "attackPower": 96,
+    "defencePower": 107,
+    "speedPower": 0.208,
+    "goldPower": 3250
+  },
+  {
+    "star": 227,
+    "attackPower": 96,
+    "defencePower": 107,
+    "speedPower": 0.208,
+    "goldPower": 3250
+  },
+  {
+    "star": 228,
+    "attackPower": 96,
+    "defencePower": 107,
+    "speedPower": 0.208,
+    "goldPower": 3250
+  },
+  {
+    "star": 229,
+    "attackPower": 96,
+    "defencePower": 107,
+    "speedPower": 0.208,
+    "goldPower": 3250
+  },
+  {
+    "star": 230,
+    "attackPower": 96,
+    "defencePower": 107,
+    "speedPower": 0.208,
+    "goldPower": 3250
+  },
+  {
+    "star": 231,
+    "attackPower": 96,
+    "defencePower": 107,
+    "speedPower": 0.208,
+    "goldPower": 3250
+  },
+  {
+    "star": 232,
+    "attackPower": 97,
+    "defencePower": 108,
+    "speedPower": 0.208,
+    "goldPower": 3250
+  },
+  {
+    "star": 233,
+    "attackPower": 97,
+    "defencePower": 108,
+    "speedPower": 0.21,
+    "goldPower": 3300
+  },
+  {
+    "star": 234,
+    "attackPower": 97,
+    "defencePower": 108,
+    "speedPower": 0.21,
+    "goldPower": 3300
+  },
+  {
+    "star": 235,
+    "attackPower": 97,
+    "defencePower": 108,
+    "speedPower": 0.21,
+    "goldPower": 3300
+  },
+  {
+    "star": 236,
+    "attackPower": 97,
+    "defencePower": 108,
+    "speedPower": 0.21,
+    "goldPower": 3300
+  },
+  {
+    "star": 237,
+    "attackPower": 97,
+    "defencePower": 108,
+    "speedPower": 0.21,
+    "goldPower": 3300
+  },
+  {
+    "star": 238,
+    "attackPower": 97,
+    "defencePower": 108,
+    "speedPower": 0.21,
+    "goldPower": 3300
+  },
+  {
+    "star": 239,
+    "attackPower": 97,
+    "defencePower": 108,
+    "speedPower": 0.21,
+    "goldPower": 3300
+  },
+  {
+    "star": 240,
+    "attackPower": 98,
+    "defencePower": 109,
+    "speedPower": 0.21,
+    "goldPower": 3300
+  },
+  {
+    "star": 241,
+    "attackPower": 98,
+    "defencePower": 109,
+    "speedPower": 0.212,
+    "goldPower": 3350
+  },
+  {
+    "star": 242,
+    "attackPower": 98,
+    "defencePower": 109,
+    "speedPower": 0.212,
+    "goldPower": 3350
+  },
+  {
+    "star": 243,
+    "attackPower": 98,
+    "defencePower": 109,
+    "speedPower": 0.212,
+    "goldPower": 3350
+  },
+  {
+    "star": 244,
+    "attackPower": 98,
+    "defencePower": 109,
+    "speedPower": 0.212,
+    "goldPower": 3350
+  },
+  {
+    "star": 245,
+    "attackPower": 98,
+    "defencePower": 109,
+    "speedPower": 0.212,
+    "goldPower": 3350
+  },
+  {
+    "star": 246,
+    "attackPower": 98,
+    "defencePower": 109,
+    "speedPower": 0.212,
+    "goldPower": 3350
+  },
+  {
+    "star": 247,
+    "attackPower": 98,
+    "defencePower": 109,
+    "speedPower": 0.212,
+    "goldPower": 3350
+  },
+  {
+    "star": 248,
+    "attackPower": 99,
+    "defencePower": 110,
+    "speedPower": 0.212,
+    "goldPower": 3350
+  },
+  {
+    "star": 249,
+    "attackPower": 99,
+    "defencePower": 110,
+    "speedPower": 0.214,
+    "goldPower": 3400
+  },
+  {
+    "star": 250,
+    "attackPower": 99,
+    "defencePower": 110,
+    "speedPower": 0.214,
+    "goldPower": 3400
+  },
+  {
+    "star": 251,
+    "attackPower": 99,
+    "defencePower": 110,
+    "speedPower": 0.214,
+    "goldPower": 3400
+  },
+  {
+    "star": 252,
+    "attackPower": 99,
+    "defencePower": 110,
+    "speedPower": 0.214,
+    "goldPower": 3400
+  },
+  {
+    "star": 253,
+    "attackPower": 99,
+    "defencePower": 110,
+    "speedPower": 0.214,
+    "goldPower": 3400
+  },
+  {
+    "star": 254,
+    "attackPower": 99,
+    "defencePower": 110,
+    "speedPower": 0.214,
+    "goldPower": 3400
+  },
+  {
+    "star": 255,
+    "attackPower": 99,
+    "defencePower": 110,
+    "speedPower": 0.214,
+    "goldPower": 3400
+  },
+  {
+    "star": 256,
+    "attackPower": 100,
+    "defencePower": 111,
+    "speedPower": 0.214,
+    "goldPower": 3400
+  },
+  {
+    "star": 257,
+    "attackPower": 100,
+    "defencePower": 111,
+    "speedPower": 0.216,
+    "goldPower": 3450
+  },
+  {
+    "star": 258,
+    "attackPower": 100,
+    "defencePower": 111,
+    "speedPower": 0.216,
+    "goldPower": 3450
+  },
+  {
+    "star": 259,
+    "attackPower": 100,
+    "defencePower": 111,
+    "speedPower": 0.216,
+    "goldPower": 3450
+  },
+  {
+    "star": 260,
+    "attackPower": 100,
+    "defencePower": 111,
+    "speedPower": 0.216,
+    "goldPower": 3450
+  },
+  {
+    "star": 261,
+    "attackPower": 100,
+    "defencePower": 111,
+    "speedPower": 0.216,
+    "goldPower": 3450
+  },
+  {
+    "star": 262,
+    "attackPower": 100,
+    "defencePower": 111,
+    "speedPower": 0.216,
+    "goldPower": 3450
+  },
+  {
+    "star": 263,
+    "attackPower": 100,
+    "defencePower": 111,
+    "speedPower": 0.216,
+    "goldPower": 3450
+  },
+  {
+    "star": 264,
+    "attackPower": 101,
+    "defencePower": 112,
+    "speedPower": 0.216,
+    "goldPower": 3450
+  },
+  {
+    "star": 265,
+    "attackPower": 101,
+    "defencePower": 112,
+    "speedPower": 0.218,
+    "goldPower": 3500
+  },
+  {
+    "star": 266,
+    "attackPower": 101,
+    "defencePower": 112,
+    "speedPower": 0.218,
+    "goldPower": 3500
+  },
+  {
+    "star": 267,
+    "attackPower": 101,
+    "defencePower": 112,
+    "speedPower": 0.218,
+    "goldPower": 3500
+  },
+  {
+    "star": 268,
+    "attackPower": 101,
+    "defencePower": 112,
+    "speedPower": 0.218,
+    "goldPower": 3500
+  },
+  {
+    "star": 269,
+    "attackPower": 101,
+    "defencePower": 112,
+    "speedPower": 0.218,
+    "goldPower": 3500
+  },
+  {
+    "star": 270,
+    "attackPower": 101,
+    "defencePower": 112,
+    "speedPower": 0.218,
+    "goldPower": 3500
+  },
+  {
+    "star": 271,
+    "attackPower": 101,
+    "defencePower": 112,
+    "speedPower": 0.218,
+    "goldPower": 3500
+  },
+  {
+    "star": 272,
+    "attackPower": 102,
+    "defencePower": 113,
+    "speedPower": 0.218,
+    "goldPower": 3500
+  },
+  {
+    "star": 273,
+    "attackPower": 102,
+    "defencePower": 113,
+    "speedPower": 0.22,
+    "goldPower": 3550
+  },
+  {
+    "star": 274,
+    "attackPower": 102,
+    "defencePower": 113,
+    "speedPower": 0.22,
+    "goldPower": 3550
+  },
+  {
+    "star": 275,
+    "attackPower": 102,
+    "defencePower": 113,
+    "speedPower": 0.22,
+    "goldPower": 3550
+  },
+  {
+    "star": 276,
+    "attackPower": 102,
+    "defencePower": 113,
+    "speedPower": 0.22,
+    "goldPower": 3550
+  },
+  {
+    "star": 277,
+    "attackPower": 102,
+    "defencePower": 113,
+    "speedPower": 0.22,
+    "goldPower": 3550
+  },
+  {
+    "star": 278,
+    "attackPower": 102,
+    "defencePower": 113,
+    "speedPower": 0.22,
+    "goldPower": 3550
+  },
+  {
+    "star": 279,
+    "attackPower": 102,
+    "defencePower": 113,
+    "speedPower": 0.22,
+    "goldPower": 3550
+  },
+  {
+    "star": 280,
+    "attackPower": 103,
+    "defencePower": 114,
+    "speedPower": 0.22,
+    "goldPower": 3550
+  },
+  {
+    "star": 281,
+    "attackPower": 103,
+    "defencePower": 114,
+    "speedPower": 0.222,
+    "goldPower": 3600
+  },
+  {
+    "star": 282,
+    "attackPower": 103,
+    "defencePower": 114,
+    "speedPower": 0.222,
+    "goldPower": 3600
+  },
+  {
+    "star": 283,
+    "attackPower": 103,
+    "defencePower": 114,
+    "speedPower": 0.222,
+    "goldPower": 3600
+  },
+  {
+    "star": 284,
+    "attackPower": 103,
+    "defencePower": 114,
+    "speedPower": 0.222,
+    "goldPower": 3600
+  },
+  {
+    "star": 285,
+    "attackPower": 103,
+    "defencePower": 114,
+    "speedPower": 0.222,
+    "goldPower": 3600
+  },
+  {
+    "star": 286,
+    "attackPower": 103,
+    "defencePower": 114,
+    "speedPower": 0.222,
+    "goldPower": 3600
+  },
+  {
+    "star": 287,
+    "attackPower": 103,
+    "defencePower": 114,
+    "speedPower": 0.222,
+    "goldPower": 3600
+  },
+  {
+    "star": 288,
+    "attackPower": 104,
+    "defencePower": 115,
+    "speedPower": 0.222,
+    "goldPower": 3600
+  },
+  {
+    "star": 289,
+    "attackPower": 104,
+    "defencePower": 115,
+    "speedPower": 0.224,
+    "goldPower": 3650
+  },
+  {
+    "star": 290,
+    "attackPower": 104,
+    "defencePower": 115,
+    "speedPower": 0.224,
+    "goldPower": 3650
+  },
+  {
+    "star": 291,
+    "attackPower": 104,
+    "defencePower": 115,
+    "speedPower": 0.224,
+    "goldPower": 3650
+  },
+  {
+    "star": 292,
+    "attackPower": 104,
+    "defencePower": 115,
+    "speedPower": 0.224,
+    "goldPower": 3650
+  },
+  {
+    "star": 293,
+    "attackPower": 104,
+    "defencePower": 115,
+    "speedPower": 0.224,
+    "goldPower": 3650
+  },
+  {
+    "star": 294,
+    "attackPower": 104,
+    "defencePower": 115,
+    "speedPower": 0.224,
+    "goldPower": 3650
+  },
+  {
+    "star": 295,
+    "attackPower": 104,
+    "defencePower": 115,
+    "speedPower": 0.224,
+    "goldPower": 3650
+  },
+  {
+    "star": 296,
+    "attackPower": 104,
+    "defencePower": 116,
+    "speedPower": 0.224,
+    "goldPower": 3650
+  },
+  {
+    "star": 297,
+    "attackPower": 104,
+    "defencePower": 116,
+    "speedPower": 0.226,
+    "goldPower": 3700
+  },
+  {
+    "star": 298,
+    "attackPower": 104,
+    "defencePower": 116,
+    "speedPower": 0.226,
+    "goldPower": 3700
+  },
+  {
+    "star": 299,
+    "attackPower": 104,
+    "defencePower": 116,
+    "speedPower": 0.226,
+    "goldPower": 3700
+  },
+  {
+    "star": 300,
+    "attackPower": 104,
+    "defencePower": 116,
+    "speedPower": 0.226,
+    "goldPower": 3700
+  },
+  {
+    "star": 301,
+    "attackPower": 104,
+    "defencePower": 116,
+    "speedPower": 0.226,
+    "goldPower": 3700
+  },
+  {
+    "star": 302,
+    "attackPower": 104,
+    "defencePower": 116,
+    "speedPower": 0.226,
+    "goldPower": 3700
+  },
+  {
+    "star": 303,
+    "attackPower": 104,
+    "defencePower": 116,
+    "speedPower": 0.226,
+    "goldPower": 3700
+  },
+  {
+    "star": 304,
+    "attackPower": 105,
+    "defencePower": 117,
+    "speedPower": 0.226,
+    "goldPower": 3700
+  },
+  {
+    "star": 305,
+    "attackPower": 105,
+    "defencePower": 117,
+    "speedPower": 0.228,
+    "goldPower": 3750
+  },
+  {
+    "star": 306,
+    "attackPower": 105,
+    "defencePower": 117,
+    "speedPower": 0.228,
+    "goldPower": 3750
+  },
+  {
+    "star": 307,
+    "attackPower": 105,
+    "defencePower": 117,
+    "speedPower": 0.228,
+    "goldPower": 3750
+  },
+  {
+    "star": 308,
+    "attackPower": 105,
+    "defencePower": 117,
+    "speedPower": 0.228,
+    "goldPower": 3750
+  },
+  {
+    "star": 309,
+    "attackPower": 105,
+    "defencePower": 117,
+    "speedPower": 0.228,
+    "goldPower": 3750
+  },
+  {
+    "star": 310,
+    "attackPower": 105,
+    "defencePower": 117,
+    "speedPower": 0.228,
+    "goldPower": 3750
+  },
+  {
+    "star": 311,
+    "attackPower": 105,
+    "defencePower": 117,
+    "speedPower": 0.228,
+    "goldPower": 3750
+  },
+  {
+    "star": 312,
+    "attackPower": 106,
+    "defencePower": 118,
+    "speedPower": 0.228,
+    "goldPower": 3750
+  },
+  {
+    "star": 313,
+    "attackPower": 106,
+    "defencePower": 118,
+    "speedPower": 0.23,
+    "goldPower": 3800
+  },
+  {
+    "star": 314,
+    "attackPower": 106,
+    "defencePower": 118,
+    "speedPower": 0.23,
+    "goldPower": 3800
+  },
+  {
+    "star": 315,
+    "attackPower": 106,
+    "defencePower": 118,
+    "speedPower": 0.23,
+    "goldPower": 3800
+  },
+  {
+    "star": 316,
+    "attackPower": 106,
+    "defencePower": 118,
+    "speedPower": 0.23,
+    "goldPower": 3800
+  },
+  {
+    "star": 317,
+    "attackPower": 106,
+    "defencePower": 118,
+    "speedPower": 0.23,
+    "goldPower": 3800
+  },
+  {
+    "star": 318,
+    "attackPower": 106,
+    "defencePower": 118,
+    "speedPower": 0.23,
+    "goldPower": 3800
+  },
+  {
+    "star": 319,
+    "attackPower": 106,
+    "defencePower": 118,
+    "speedPower": 0.23,
+    "goldPower": 3800
+  },
+  {
+    "star": 320,
+    "attackPower": 107,
+    "defencePower": 119,
+    "speedPower": 0.23,
+    "goldPower": 3800
+  },
+  {
+    "star": 321,
+    "attackPower": 107,
+    "defencePower": 119,
+    "speedPower": 0.232,
+    "goldPower": 3850
+  },
+  {
+    "star": 322,
+    "attackPower": 107,
+    "defencePower": 119,
+    "speedPower": 0.232,
+    "goldPower": 3850
+  },
+  {
+    "star": 323,
+    "attackPower": 107,
+    "defencePower": 119,
+    "speedPower": 0.232,
+    "goldPower": 3850
+  },
+  {
+    "star": 324,
+    "attackPower": 107,
+    "defencePower": 119,
+    "speedPower": 0.232,
+    "goldPower": 3850
+  },
+  {
+    "star": 325,
+    "attackPower": 107,
+    "defencePower": 119,
+    "speedPower": 0.232,
+    "goldPower": 3850
+  },
+  {
+    "star": 326,
+    "attackPower": 107,
+    "defencePower": 119,
+    "speedPower": 0.232,
+    "goldPower": 3850
+  },
+  {
+    "star": 327,
+    "attackPower": 107,
+    "defencePower": 119,
+    "speedPower": 0.232,
+    "goldPower": 3850
+  },
+  {
+    "star": 328,
+    "attackPower": 108,
+    "defencePower": 120,
+    "speedPower": 0.232,
+    "goldPower": 3850
+  },
+  {
+    "star": 329,
+    "attackPower": 108,
+    "defencePower": 120,
+    "speedPower": 0.234,
+    "goldPower": 3900
+  },
+  {
+    "star": 330,
+    "attackPower": 108,
+    "defencePower": 120,
+    "speedPower": 0.234,
+    "goldPower": 3900
+  },
+  {
+    "star": 331,
+    "attackPower": 108,
+    "defencePower": 120,
+    "speedPower": 0.234,
+    "goldPower": 3900
+  },
+  {
+    "star": 332,
+    "attackPower": 108,
+    "defencePower": 120,
+    "speedPower": 0.234,
+    "goldPower": 3900
+  },
+  {
+    "star": 333,
+    "attackPower": 108,
+    "defencePower": 120,
+    "speedPower": 0.234,
+    "goldPower": 3900
+  },
+  {
+    "star": 334,
+    "attackPower": 108,
+    "defencePower": 120,
+    "speedPower": 0.234,
+    "goldPower": 3900
+  },
+  {
+    "star": 335,
+    "attackPower": 108,
+    "defencePower": 120,
+    "speedPower": 0.234,
+    "goldPower": 3900
+  },
+  {
+    "star": 336,
+    "attackPower": 109,
+    "defencePower": 121,
+    "speedPower": 0.234,
+    "goldPower": 3900
+  },
+  {
+    "star": 337,
+    "attackPower": 109,
+    "defencePower": 121,
+    "speedPower": 0.236,
+    "goldPower": 3950
+  },
+  {
+    "star": 338,
+    "attackPower": 109,
+    "defencePower": 121,
+    "speedPower": 0.236,
+    "goldPower": 3950
+  },
+  {
+    "star": 339,
+    "attackPower": 109,
+    "defencePower": 121,
+    "speedPower": 0.236,
+    "goldPower": 3950
+  },
+  {
+    "star": 340,
+    "attackPower": 109,
+    "defencePower": 121,
+    "speedPower": 0.236,
+    "goldPower": 3950
+  },
+  {
+    "star": 341,
+    "attackPower": 109,
+    "defencePower": 121,
+    "speedPower": 0.236,
+    "goldPower": 3950
+  },
+  {
+    "star": 342,
+    "attackPower": 109,
+    "defencePower": 121,
+    "speedPower": 0.236,
+    "goldPower": 3950
+  },
+  {
+    "star": 343,
+    "attackPower": 109,
+    "defencePower": 121,
+    "speedPower": 0.236,
+    "goldPower": 3950
+  },
+  {
+    "star": 344,
+    "attackPower": 110,
+    "defencePower": 122,
+    "speedPower": 0.236,
+    "goldPower": 3950
+  },
+  {
+    "star": 345,
+    "attackPower": 110,
+    "defencePower": 122,
+    "speedPower": 0.238,
+    "goldPower": 4000
+  },
+  {
+    "star": 346,
+    "attackPower": 110,
+    "defencePower": 122,
+    "speedPower": 0.238,
+    "goldPower": 4000
+  },
+  {
+    "star": 347,
+    "attackPower": 110,
+    "defencePower": 122,
+    "speedPower": 0.238,
+    "goldPower": 4000
+  },
+  {
+    "star": 348,
+    "attackPower": 110,
+    "defencePower": 122,
+    "speedPower": 0.238,
+    "goldPower": 4000
+  },
+  {
+    "star": 349,
+    "attackPower": 110,
+    "defencePower": 122,
+    "speedPower": 0.238,
+    "goldPower": 4000
+  },
+  {
+    "star": 350,
+    "attackPower": 110,
+    "defencePower": 122,
+    "speedPower": 0.238,
+    "goldPower": 4000
+  },
+  {
+    "star": 351,
+    "attackPower": 110,
+    "defencePower": 122,
+    "speedPower": 0.238,
+    "goldPower": 4000
+  },
+  {
+    "star": 352,
+    "attackPower": 111,
+    "defencePower": 123,
+    "speedPower": 0.238,
+    "goldPower": 4000
+  },
+  {
+    "star": 353,
+    "attackPower": 111,
+    "defencePower": 123,
+    "speedPower": 0.24,
+    "goldPower": 4050
+  },
+  {
+    "star": 354,
+    "attackPower": 111,
+    "defencePower": 123,
+    "speedPower": 0.24,
+    "goldPower": 4050
+  },
+  {
+    "star": 355,
+    "attackPower": 111,
+    "defencePower": 123,
+    "speedPower": 0.24,
+    "goldPower": 4050
+  },
+  {
+    "star": 356,
+    "attackPower": 111,
+    "defencePower": 123,
+    "speedPower": 0.24,
+    "goldPower": 4050
+  },
+  {
+    "star": 357,
+    "attackPower": 111,
+    "defencePower": 123,
+    "speedPower": 0.24,
+    "goldPower": 4050
+  },
+  {
+    "star": 358,
+    "attackPower": 111,
+    "defencePower": 123,
+    "speedPower": 0.24,
+    "goldPower": 4050
+  },
+  {
+    "star": 359,
+    "attackPower": 111,
+    "defencePower": 123,
+    "speedPower": 0.24,
+    "goldPower": 4050
+  },
+  {
+    "star": 360,
+    "attackPower": 112,
+    "defencePower": 124,
+    "speedPower": 0.24,
+    "goldPower": 4050
+  },
+  {
+    "star": 361,
+    "attackPower": 112,
+    "defencePower": 124,
+    "speedPower": 0.242,
+    "goldPower": 4100
+  },
+  {
+    "star": 362,
+    "attackPower": 112,
+    "defencePower": 124,
+    "speedPower": 0.242,
+    "goldPower": 4100
+  },
+  {
+    "star": 363,
+    "attackPower": 112,
+    "defencePower": 124,
+    "speedPower": 0.242,
+    "goldPower": 4100
+  },
+  {
+    "star": 364,
+    "attackPower": 112,
+    "defencePower": 124,
+    "speedPower": 0.242,
+    "goldPower": 4100
+  },
+  {
+    "star": 365,
+    "attackPower": 112,
+    "defencePower": 124,
+    "speedPower": 0.242,
+    "goldPower": 4100
+  },
+  {
+    "star": 366,
+    "attackPower": 112,
+    "defencePower": 124,
+    "speedPower": 0.242,
+    "goldPower": 4100
+  },
+  {
+    "star": 367,
+    "attackPower": 112,
+    "defencePower": 124,
+    "speedPower": 0.242,
+    "goldPower": 4100
+  },
+  {
+    "star": 368,
+    "attackPower": 113,
+    "defencePower": 125,
+    "speedPower": 0.242,
+    "goldPower": 4100
+  },
+  {
+    "star": 369,
+    "attackPower": 113,
+    "defencePower": 125,
+    "speedPower": 0.244,
+    "goldPower": 4150
+  },
+  {
+    "star": 370,
+    "attackPower": 113,
+    "defencePower": 125,
+    "speedPower": 0.244,
+    "goldPower": 4150
+  },
+  {
+    "star": 371,
+    "attackPower": 113,
+    "defencePower": 125,
+    "speedPower": 0.244,
+    "goldPower": 4150
+  },
+  {
+    "star": 372,
+    "attackPower": 113,
+    "defencePower": 125,
+    "speedPower": 0.244,
+    "goldPower": 4150
+  },
+  {
+    "star": 373,
+    "attackPower": 113,
+    "defencePower": 125,
+    "speedPower": 0.244,
+    "goldPower": 4150
+  },
+  {
+    "star": 374,
+    "attackPower": 113,
+    "defencePower": 125,
+    "speedPower": 0.244,
+    "goldPower": 4150
+  },
+  {
+    "star": 375,
+    "attackPower": 113,
+    "defencePower": 125,
+    "speedPower": 0.244,
+    "goldPower": 4150
+  },
+  {
+    "star": 376,
+    "attackPower": 113,
+    "defencePower": 126,
+    "speedPower": 0.244,
+    "goldPower": 4150
+  }
+]

@@ -1,0 +1,823 @@
+[
+  {
+    "id": 0,
+    "name": "青铜1",
+    "playerCount": 4,
+    "score": 0,
+    "levelUpScore": 5,
+    "addKnifeInterval": 3.7,
+    "goldMultiRate": 0,
+    "getScore": [
+      20,
+      10,
+      5,
+      1
+    ],
+    "getGold": [
+      80,
+      40,
+      20,
+      10
+    ],
+    "blockNum": 0,
+    "aiSkinMax": 5,
+    "aiHeroSkinRandomCount": 0,
+    "aiHeroSkinMax": 0,
+    "aiRankRange": [
+      0,
+      3
+    ],
+    "url": "texture/icon/icon-rank-01",
+    "winHideScore": 0,
+    "loseHideScore": 0
+  },
+  {
+    "id": 1,
+    "name": "青铜2",
+    "playerCount": 4,
+    "score": 5,
+    "levelUpScore": 10,
+    "addKnifeInterval": 3.7,
+    "goldMultiRate": 0.02,
+    "getScore": [
+      20,
+      10,
+      5,
+      1
+    ],
+    "getGold": [
+      80,
+      40,
+      20,
+      10
+    ],
+    "blockNum": 0,
+    "aiSkinMax": 5,
+    "aiHeroSkinRandomCount": 0,
+    "aiHeroSkinMax": 0,
+    "aiRankRange": [
+      0,
+      4
+    ],
+    "url": "texture/icon/icon-rank-02",
+    "winHideScore": 0,
+    "loseHideScore": 0
+  },
+  {
+    "id": 2,
+    "name": "青铜3",
+    "playerCount": 5,
+    "score": 15,
+    "levelUpScore": 20,
+    "addKnifeInterval": 3.7,
+    "goldMultiRate": 0.04,
+    "getScore": [
+      40,
+      20,
+      10,
+      1
+    ],
+    "getGold": [
+      100,
+      50,
+      25,
+      13,
+      6
+    ],
+    "blockNum": 1,
+    "aiSkinMax": 5,
+    "aiHeroSkinRandomCount": 0,
+    "aiHeroSkinMax": 0,
+    "aiRankRange": [
+      0,
+      5
+    ],
+    "url": "texture/icon/icon-rank-03",
+    "winHideScore": 0,
+    "loseHideScore": 0,
+    "reward": "0,0,100"
+  },
+  {
+    "id": 3,
+    "name": "白银1",
+    "playerCount": 5,
+    "score": 35,
+    "levelUpScore": 25,
+    "addKnifeInterval": 3.1,
+    "goldMultiRate": 0.1,
+    "getScore": [
+      40,
+      20,
+      10,
+      1
+    ],
+    "getGold": [
+      100,
+      50,
+      25,
+      13,
+      6
+    ],
+    "blockNum": 1,
+    "aiSkinMax": 7,
+    "aiHeroSkinRandomCount": 0,
+    "aiHeroSkinMax": 0,
+    "aiRankRange": [
+      2,
+      6
+    ],
+    "url": "texture/icon/icon-rank-11",
+    "winHideScore": 0,
+    "loseHideScore": 0,
+    "reward": "1,17,1"
+  },
+  {
+    "id": 4,
+    "name": "白银2",
+    "playerCount": 6,
+    "score": 60,
+    "levelUpScore": 30,
+    "addKnifeInterval": 3.1,
+    "goldMultiRate": 0.13,
+    "getScore": [
+      60,
+      30,
+      15,
+      1
+    ],
+    "getGold": [
+      120,
+      60,
+      30,
+      15,
+      8,
+      4
+    ],
+    "blockNum": 1,
+    "aiSkinMax": 7,
+    "aiHeroSkinRandomCount": 0,
+    "aiHeroSkinMax": 0,
+    "aiRankRange": [
+      2,
+      7
+    ],
+    "url": "texture/icon/icon-rank-12",
+    "winHideScore": 0,
+    "loseHideScore": 0
+  },
+  {
+    "id": 5,
+    "name": "白银3",
+    "playerCount": 6,
+    "score": 90,
+    "levelUpScore": 50,
+    "addKnifeInterval": 3.1,
+    "goldMultiRate": 0.16,
+    "getScore": [
+      60,
+      30,
+      15,
+      1
+    ],
+    "getGold": [
+      120,
+      60,
+      30,
+      15,
+      8,
+      4
+    ],
+    "blockNum": 1,
+    "aiSkinMax": 9,
+    "aiHeroSkinRandomCount": 2,
+    "aiHeroSkinMax": 2,
+    "aiRankRange": [
+      2,
+      8
+    ],
+    "url": "texture/icon/icon-rank-13",
+    "winHideScore": 0,
+    "loseHideScore": 0,
+    "reward": "0,0,200"
+  },
+  {
+    "id": 6,
+    "name": "黄金1",
+    "playerCount": 7,
+    "score": 140,
+    "levelUpScore": 100,
+    "addKnifeInterval": 2.7,
+    "goldMultiRate": 0.3,
+    "getScore": [
+      80,
+      40,
+      20,
+      1
+    ],
+    "getGold": [
+      140,
+      70,
+      35,
+      18,
+      9,
+      4,
+      2
+    ],
+    "blockNum": 2,
+    "aiSkinMax": 9,
+    "aiHeroSkinRandomCount": 2,
+    "aiHeroSkinMax": 2,
+    "aiRankRange": [
+      5,
+      9
+    ],
+    "url": "texture/icon/icon-rank-21",
+    "winHideScore": 0,
+    "loseHideScore": 0,
+    "reward": "1,18,1"
+  },
+  {
+    "id": 7,
+    "name": "黄金2",
+    "playerCount": 8,
+    "score": 240,
+    "levelUpScore": 150,
+    "addKnifeInterval": 2.7,
+    "goldMultiRate": 0.35,
+    "getScore": [
+      100,
+      50,
+      25,
+      1
+    ],
+    "getGold": [
+      160,
+      80,
+      40,
+      20,
+      10,
+      5,
+      3,
+      1
+    ],
+    "blockNum": 2,
+    "aiSkinMax": 9,
+    "aiHeroSkinRandomCount": 3,
+    "aiHeroSkinMax": 2,
+    "aiRankRange": [
+      5,
+      10
+    ],
+    "url": "texture/icon/icon-rank-22",
+    "winHideScore": 10,
+    "loseHideScore": -5
+  },
+  {
+    "id": 8,
+    "name": "黄金3",
+    "playerCount": 8,
+    "score": 390,
+    "levelUpScore": 300,
+    "addKnifeInterval": 2.7,
+    "goldMultiRate": 0.4,
+    "getScore": [
+      100,
+      50,
+      25,
+      1
+    ],
+    "getGold": [
+      160,
+      80,
+      40,
+      20,
+      10,
+      5,
+      3,
+      1
+    ],
+    "blockNum": 2,
+    "aiSkinMax": 14,
+    "aiHeroSkinRandomCount": 3,
+    "aiHeroSkinMax": 2,
+    "aiRankRange": [
+      5,
+      11
+    ],
+    "url": "texture/icon/icon-rank-23",
+    "winHideScore": 10,
+    "loseHideScore": -5,
+    "reward": "0,0,500"
+  },
+  {
+    "id": 9,
+    "name": "铂金1",
+    "playerCount": 8,
+    "score": 690,
+    "levelUpScore": 350,
+    "addKnifeInterval": 2.4,
+    "goldMultiRate": 0.8,
+    "getScore": [
+      100,
+      50,
+      25,
+      1
+    ],
+    "getGold": [
+      160,
+      80,
+      40,
+      20,
+      10,
+      5,
+      3,
+      1
+    ],
+    "blockNum": 2,
+    "aiSkinMax": 14,
+    "aiHeroSkinRandomCount": 3,
+    "aiHeroSkinMax": 2,
+    "aiRankRange": [
+      8,
+      12
+    ],
+    "url": "texture/icon/icon-rank-31",
+    "winHideScore": 10,
+    "loseHideScore": -5,
+    "reward": "1,19,1"
+  },
+  {
+    "id": 10,
+    "name": "铂金2",
+    "playerCount": 8,
+    "score": 1040,
+    "levelUpScore": 400,
+    "addKnifeInterval": 2.4,
+    "goldMultiRate": 1.1,
+    "getScore": [
+      100,
+      50,
+      25,
+      1
+    ],
+    "getGold": [
+      160,
+      80,
+      40,
+      20,
+      10,
+      5,
+      3,
+      1
+    ],
+    "blockNum": 3,
+    "aiSkinMax": 14,
+    "aiHeroSkinRandomCount": 3,
+    "aiHeroSkinMax": 2,
+    "aiRankRange": [
+      8,
+      13
+    ],
+    "url": "texture/icon/icon-rank-32",
+    "winHideScore": 10,
+    "loseHideScore": -5
+  },
+  {
+    "id": 11,
+    "name": "铂金3",
+    "playerCount": 8,
+    "score": 1440,
+    "levelUpScore": 500,
+    "addKnifeInterval": 2.4,
+    "goldMultiRate": 1.4,
+    "getScore": [
+      100,
+      50,
+      25,
+      1
+    ],
+    "getGold": [
+      160,
+      80,
+      40,
+      20,
+      10,
+      5,
+      3,
+      1
+    ],
+    "blockNum": 3,
+    "aiSkinMax": 18,
+    "aiHeroSkinRandomCount": 3,
+    "aiHeroSkinMax": 3,
+    "aiRankRange": [
+      8,
+      14
+    ],
+    "url": "texture/icon/icon-rank-33",
+    "winHideScore": 10,
+    "loseHideScore": -5,
+    "reward": "0,0,1000"
+  },
+  {
+    "id": 12,
+    "name": "铂金4",
+    "playerCount": 8,
+    "score": 1940,
+    "levelUpScore": 550,
+    "addKnifeInterval": 2.4,
+    "goldMultiRate": 1.7,
+    "getScore": [
+      100,
+      50,
+      25,
+      1
+    ],
+    "getGold": [
+      160,
+      80,
+      40,
+      20,
+      10,
+      5,
+      3,
+      1
+    ],
+    "blockNum": 3,
+    "aiSkinMax": 18,
+    "aiHeroSkinRandomCount": 3,
+    "aiHeroSkinMax": 3,
+    "aiRankRange": [
+      8,
+      15
+    ],
+    "url": "texture/icon/icon-rank-34",
+    "winHideScore": 10,
+    "loseHideScore": -5
+  },
+  {
+    "id": 13,
+    "name": "钻石1",
+    "playerCount": 8,
+    "score": 2490,
+    "levelUpScore": 600,
+    "addKnifeInterval": 2.2,
+    "goldMultiRate": 2.6,
+    "getScore": [
+      100,
+      50,
+      25,
+      1
+    ],
+    "getGold": [
+      160,
+      80,
+      40,
+      20,
+      10,
+      5,
+      3,
+      1
+    ],
+    "blockNum": 3,
+    "aiSkinMax": 18,
+    "aiHeroSkinRandomCount": 3,
+    "aiHeroSkinMax": 4,
+    "aiRankRange": [
+      12,
+      16
+    ],
+    "url": "texture/icon/icon-rank-41",
+    "winHideScore": 10,
+    "loseHideScore": -3,
+    "reward": "1,20,1"
+  },
+  {
+    "id": 14,
+    "name": "钻石2",
+    "playerCount": 8,
+    "score": 3090,
+    "levelUpScore": 650,
+    "addKnifeInterval": 2.2,
+    "goldMultiRate": 3,
+    "getScore": [
+      100,
+      50,
+      25,
+      1
+    ],
+    "getGold": [
+      160,
+      80,
+      40,
+      20,
+      10,
+      5,
+      3,
+      1
+    ],
+    "blockNum": 3,
+    "aiSkinMax": 18,
+    "aiHeroSkinRandomCount": 3,
+    "aiHeroSkinMax": 4,
+    "aiRankRange": [
+      12,
+      17
+    ],
+    "url": "texture/icon/icon-rank-42",
+    "winHideScore": 10,
+    "loseHideScore": -3
+  },
+  {
+    "id": 15,
+    "name": "钻石3",
+    "playerCount": 8,
+    "score": 3740,
+    "levelUpScore": 750,
+    "addKnifeInterval": 2.2,
+    "goldMultiRate": 3.4,
+    "getScore": [
+      100,
+      50,
+      25,
+      1
+    ],
+    "getGold": [
+      160,
+      80,
+      40,
+      20,
+      10,
+      5,
+      3,
+      1
+    ],
+    "blockNum": 3,
+    "aiSkinMax": 22,
+    "aiHeroSkinRandomCount": 3,
+    "aiHeroSkinMax": 5,
+    "aiRankRange": [
+      12,
+      18
+    ],
+    "url": "texture/icon/icon-rank-43",
+    "winHideScore": 10,
+    "loseHideScore": -3,
+    "reward": "0,0,5000"
+  },
+  {
+    "id": 16,
+    "name": "钻石4",
+    "playerCount": 8,
+    "score": 4490,
+    "levelUpScore": 800,
+    "addKnifeInterval": 2.2,
+    "goldMultiRate": 3.8,
+    "getScore": [
+      100,
+      50,
+      25,
+      1
+    ],
+    "getGold": [
+      160,
+      80,
+      40,
+      20,
+      10,
+      5,
+      3,
+      1
+    ],
+    "blockNum": 3,
+    "aiSkinMax": 22,
+    "aiHeroSkinRandomCount": 3,
+    "aiHeroSkinMax": 5,
+    "aiRankRange": [
+      12,
+      19
+    ],
+    "url": "texture/icon/icon-rank-44",
+    "winHideScore": 10,
+    "loseHideScore": -3
+  },
+  {
+    "id": 17,
+    "name": "大师1",
+    "playerCount": 8,
+    "score": 5290,
+    "levelUpScore": 850,
+    "addKnifeInterval": 2,
+    "goldMultiRate": 5.3,
+    "getScore": [
+      100,
+      50,
+      25,
+      1
+    ],
+    "getGold": [
+      160,
+      80,
+      40,
+      20,
+      10,
+      5,
+      3,
+      1
+    ],
+    "blockNum": 3,
+    "aiSkinMax": 22,
+    "aiHeroSkinRandomCount": 3,
+    "aiHeroSkinMax": 5,
+    "aiRankRange": [
+      16,
+      20
+    ],
+    "url": "texture/icon/icon-rank-51",
+    "winHideScore": 10,
+    "loseHideScore": -3,
+    "reward": "1,21,1"
+  },
+  {
+    "id": 18,
+    "name": "大师2",
+    "playerCount": 8,
+    "score": 6140,
+    "levelUpScore": 900,
+    "addKnifeInterval": 2,
+    "goldMultiRate": 5.8,
+    "getScore": [
+      100,
+      50,
+      25,
+      1
+    ],
+    "getGold": [
+      160,
+      80,
+      40,
+      20,
+      10,
+      5,
+      3,
+      1
+    ],
+    "blockNum": 3,
+    "aiSkinMax": 22,
+    "aiHeroSkinRandomCount": 3,
+    "aiHeroSkinMax": 5,
+    "aiRankRange": [
+      16,
+      21
+    ],
+    "url": "texture/icon/icon-rank-52",
+    "winHideScore": 10,
+    "loseHideScore": -3
+  },
+  {
+    "id": 19,
+    "name": "大师3",
+    "playerCount": 8,
+    "score": 7040,
+    "levelUpScore": 950,
+    "addKnifeInterval": 2,
+    "goldMultiRate": 6.3,
+    "getScore": [
+      100,
+      50,
+      25,
+      1
+    ],
+    "getGold": [
+      160,
+      80,
+      40,
+      20,
+      10,
+      5,
+      3,
+      1
+    ],
+    "blockNum": 3,
+    "aiSkinMax": 22,
+    "aiHeroSkinRandomCount": 3,
+    "aiHeroSkinMax": 6,
+    "aiRankRange": [
+      16,
+      22
+    ],
+    "url": "texture/icon/icon-rank-53",
+    "winHideScore": 10,
+    "loseHideScore": -3
+  },
+  {
+    "id": 20,
+    "name": "大师4",
+    "playerCount": 8,
+    "score": 7990,
+    "levelUpScore": 1000,
+    "addKnifeInterval": 2,
+    "goldMultiRate": 6.8,
+    "getScore": [
+      100,
+      50,
+      25,
+      1
+    ],
+    "getGold": [
+      160,
+      80,
+      40,
+      20,
+      10,
+      5,
+      3,
+      1
+    ],
+    "blockNum": 3,
+    "aiSkinMax": 22,
+    "aiHeroSkinRandomCount": 3,
+    "aiHeroSkinMax": 6,
+    "aiRankRange": [
+      16,
+      22
+    ],
+    "url": "texture/icon/icon-rank-54",
+    "winHideScore": 10,
+    "loseHideScore": -3,
+    "reward": "0,0,10000"
+  },
+  {
+    "id": 21,
+    "name": "大师5",
+    "playerCount": 8,
+    "score": 8990,
+    "levelUpScore": 1200,
+    "addKnifeInterval": 2,
+    "goldMultiRate": 7.3,
+    "getScore": [
+      100,
+      50,
+      25,
+      1
+    ],
+    "getGold": [
+      160,
+      80,
+      40,
+      20,
+      10,
+      5,
+      3,
+      1
+    ],
+    "blockNum": 3,
+    "aiSkinMax": 22,
+    "aiHeroSkinRandomCount": 3,
+    "aiHeroSkinMax": 6,
+    "aiRankRange": [
+      16,
+      22
+    ],
+    "url": "texture/icon/icon-rank-55",
+    "winHideScore": 10,
+    "loseHideScore": -3
+  },
+  {
+    "id": 22,
+    "name": "王者",
+    "playerCount": 8,
+    "score": 10190,
+    "levelUpScore": 0,
+    "addKnifeInterval": 1.8,
+    "goldMultiRate": 10,
+    "getScore": [
+      100,
+      50,
+      25,
+      1
+    ],
+    "getGold": [
+      160,
+      80,
+      40,
+      20,
+      10,
+      5,
+      3,
+      1
+    ],
+    "blockNum": 3,
+    "aiSkinMax": 22,
+    "aiHeroSkinRandomCount": 4,
+    "aiHeroSkinMax": 6,
+    "aiRankRange": [
+      16,
+      22
+    ],
+    "url": "texture/icon/icon-rank-61",
+    "winHideScore": 10,
+    "loseHideScore": -3,
+    "reward": "1,22,1"
+  }
+]

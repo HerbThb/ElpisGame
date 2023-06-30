@@ -1,0 +1,257 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ani-effect-rank-down",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.2666666666666666,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "icon-rank-star-04": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 1,
+              "value": false
+            }
+          ],
+          "angle": [
+            {
+              "frame": 0,
+              "value": 3
+            },
+            {
+              "frame": 0.06666666666666667,
+              "value": -3
+            },
+            {
+              "frame": 0.13333333333333333,
+              "value": 3
+            },
+            {
+              "frame": 0.2,
+              "value": -3
+            },
+            {
+              "frame": 0.26666666666666666,
+              "value": 3
+            },
+            {
+              "frame": 0.3,
+              "value": -3
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 3
+            },
+            {
+              "frame": 0.36666666666666664,
+              "value": -3
+            },
+            {
+              "frame": 0.4,
+              "value": 3
+            },
+            {
+              "frame": 0.43333333333333335,
+              "value": -3
+            },
+            {
+              "frame": 0.4666666666666667,
+              "value": 3
+            },
+            {
+              "frame": 0.5,
+              "value": -3
+            },
+            {
+              "frame": 0.5333333333333333,
+              "value": 3
+            }
+          ]
+        }
+      },
+      "effect-rank-05": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 1,
+              "value": true
+            },
+            {
+              "frame": 1.1,
+              "value": true
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 1,
+              "value": 255
+            },
+            {
+              "frame": 1.1,
+              "value": 255
+            },
+            {
+              "frame": 1.2666666666666666,
+              "value": 0
+            }
+          ],
+          "position": [
+            {
+              "frame": 1,
+              "value": [
+                -9.9,
+                10.5
+              ]
+            },
+            {
+              "frame": 1.1,
+              "value": [
+                -9.9,
+                10.5
+              ]
+            },
+            {
+              "frame": 1.2666666666666666,
+              "value": [
+                -9.9,
+                15.3
+              ]
+            }
+          ]
+        }
+      },
+      "effect-rank-06": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 1,
+              "value": true
+            },
+            {
+              "frame": 1.1,
+              "value": true
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 1,
+              "value": 255
+            },
+            {
+              "frame": 1.1,
+              "value": 255
+            },
+            {
+              "frame": 1.2666666666666666,
+              "value": 0
+            }
+          ],
+          "position": [
+            {
+              "frame": 1,
+              "value": [
+                6.3,
+                -12.9
+              ]
+            },
+            {
+              "frame": 1.1,
+              "value": [
+                6.3,
+                -12.9
+              ]
+            },
+            {
+              "frame": 1.2666666666666666,
+              "value": [
+                6.3,
+                -18.1
+              ]
+            }
+          ]
+        }
+      },
+      "effect-rank-07": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0.5,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 0.6333333333333333,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.4,
+                "y": 1
+              }
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.5,
+                "y": 0.6
+              }
+            }
+          ],
+          "position": [
+            {
+              "frame": 0.5,
+              "value": [
+                68.9,
+                68.9
+              ]
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": [
+                -69.5,
+                -69.5
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.5,
+              "value": 0
+            },
+            {
+              "frame": 0.5333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 0.6333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 0.7,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

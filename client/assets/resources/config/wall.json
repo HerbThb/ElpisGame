@@ -1,0 +1,8 @@
+[
+  {
+    "wallTimeStart": 15,
+    "wallTimeLimit": 5,
+    "wallTimeMove": 5,
+    "wallTimeInterval": 30
+  }
+]

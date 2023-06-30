@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "realParam": 1,
+    "showTips": "金币价值3",
+    "price": 169
+  },
+  {
+    "id": 2,
+    "realParam": 1.5,
+    "showTips": "金币价值6",
+    "price": 353
+  },
+  {
+    "id": 3,
+    "realParam": 2,
+    "showTips": "金币价值9",
+    "price": 529
+  },
+  {
+    "id": 4,
+    "realParam": 2.5,
+    "showTips": "金币价值12",
+    "price": 719
+  },
+  {
+    "id": 5,
+    "realParam": 3,
+    "showTips": "金币价值15",
+    "price": 937
+  },
+  {
+    "id": 6,
+    "realParam": 3.5,
+    "showTips": "金币价值18",
+    "price": 1081
+  },
+  {
+    "id": 7,
+    "realParam": 4,
+    "showTips": "金币价值21",
+    "price": 1297
+  },
+  {
+    "id": 8,
+    "realParam": 4.5,
+    "showTips": "金币价值24",
+    "price": 1514
+  },
+  {
+    "id": 9,
+    "realParam": 5,
+    "showTips": "金币价值27",
+    "price": 1730
+  },
+  {
+    "id": 10,
+    "realParam": 5.5,
+    "showTips": "金币价值30",
+    "price": 3892
+  },
+  {
+    "id": 11,
+    "realParam": 6,
+    "showTips": "金币价值33",
+    "price": 4324
+  },
+  {
+    "id": 12,
+    "realParam": 6.5,
+    "showTips": "金币价值36",
+    "price": 4829
+  },
+  {
+    "id": 13,
+    "realParam": 7,
+    "showTips": "金币价值39",
+    "price": 5333
+  },
+  {
+    "id": 14,
+    "realParam": 7.5,
+    "showTips": "金币价值42",
+    "price": 5694
+  },
+  {
+    "id": 15,
+    "realParam": 8,
+    "showTips": "金币价值45",
+    "price": 6198
+  },
+  {
+    "id": 16,
+    "realParam": 8.5,
+    "showTips": "金币价值48",
+    "price": 6775
+  },
+  {
+    "id": 17,
+    "realParam": 9,
+    "showTips": "金币价值51",
+    "price": 7279
+  },
+  {
+    "id": 18,
+    "realParam": 9.5,
+    "showTips": "金币价值54",
+    "price": 7856
+  },
+  {
+    "id": 19,
+    "realParam": 10,
+    "showTips": "金币价值57",
+    "price": 8288
+  },
+  {
+    "id": 20,
+    "realParam": 10.5,
+    "showTips": "金币价值60",
+    "price": 8865
+  },
+  {
+    "id": 21,
+    "realParam": 11,
+    "showTips": "金币价值63",
+    "price": 9441
+  },
+  {
+    "id": 22,
+    "realParam": 11.5,
+    "showTips": "金币价值66",
+    "price": 10018
+  },
+  {
+    "id": 23,
+    "realParam": 12,
+    "showTips": "金币价值69",
+    "price": 10523
+  },
+  {
+    "id": 24,
+    "realParam": 12.5,
+    "showTips": "金币价值72",
+    "price": 11099
+  },
+  {
+    "id": 25,
+    "realParam": 13,
+    "showTips": "金币价值75",
+    "price": 11748
+  },
+  {
+    "id": 26,
+    "realParam": 13.5,
+    "showTips": "金币价值78",
+    "price": 12396
+  },
+  {
+    "id": 27,
+    "realParam": 14,
+    "showTips": "金币价值81",
+    "price": 13045
+  },
+  {
+    "id": 28,
+    "realParam": 14.5,
+    "showTips": "金币价值84",
+    "price": 13550
+  },
+  {
+    "id": 29,
+    "realParam": 15,
+    "showTips": "金币价值87",
+    "price": 14270
+  },
+  {
+    "id": 30,
+    "realParam": 15.5,
+    "showTips": "金币价值90",
+    "price": 22414
+  },
+  {
+    "id": 31,
+    "realParam": 16,
+    "showTips": "金币价值93",
+    "price": 23495
+  },
+  {
+    "id": 32,
+    "realParam": 16.5,
+    "showTips": "金币价值96",
+    "price": 24216
+  },
+  {
+    "id": 33,
+    "realParam": 17,
+    "showTips": "金币价值99",
+    "price": 25369
+  },
+  {
+    "id": 34,
+    "realParam": 17.5,
+    "showTips": "金币价值102",
+    "price": 26450
+  },
+  {
+    "id": 35,
+    "realParam": 18,
+    "showTips": "金币价值105",
+    "price": 27604
+  },
+  {
+    "id": 36,
+    "realParam": 18.5,
+    "showTips": "金币价值108",
+    "price": 28396
+  },
+  {
+    "id": 37,
+    "realParam": 19,
+    "showTips": "金币价值111",
+    "price": 29550
+  },
+  {
+    "id": 38,
+    "realParam": 19.5,
+    "showTips": "金币价值114",
+    "price": 30775
+  },
+  {
+    "id": 39,
+    "realParam": 20,
+    "showTips": "金币价值117",
+    "price": 32000
+  },
+  {
+    "id": 40,
+    "realParam": 20.5,
+    "showTips": "金币价值120",
+    "price": 44252
+  },
+  {
+    "id": 41,
+    "realParam": 21,
+    "showTips": "金币价值123",
+    "price": 45405
+  },
+  {
+    "id": 42,
+    "realParam": 21.5,
+    "showTips": "金币价值126",
+    "price": 47640
+  },
+  {
+    "id": 43,
+    "realParam": 22,
+    "showTips": "金币价值129",
+    "price": 50018
+  },
+  {
+    "id": 44,
+    "realParam": 22.5,
+    "showTips": "金币价值132",
+    "price": 52973
+  },
+  {
+    "id": 45,
+    "realParam": 23,
+    "showTips": "金币价值135",
+    "price": 55423
+  },
+  {
+    "id": 46,
+    "realParam": 23.5,
+    "showTips": "金币价值138",
+    "price": 58595
+  },
+  {
+    "id": 47,
+    "realParam": 24,
+    "showTips": "金币价值141",
+    "price": 61117
+  },
+  {
+    "id": 48,
+    "realParam": 24.5,
+    "showTips": "金币价值144",
+    "price": 64432
+  },
+  {
+    "id": 49,
+    "realParam": 25,
+    "showTips": "金币价值147",
+    "price": 67820
+  },
+  {
+    "id": 50,
+    "realParam": 25.5,
+    "showTips": "金币价值150",
+    "price": 89946
+  },
+  {
+    "id": 51,
+    "realParam": 26,
+    "showTips": "金币价值153",
+    "price": 94414
+  },
+  {
+    "id": 52,
+    "realParam": 26.5,
+    "showTips": "金币价值156",
+    "price": 98955
+  },
+  {
+    "id": 53,
+    "realParam": 27,
+    "showTips": "金币价值159",
+    "price": 104505
+  },
+  {
+    "id": 54,
+    "realParam": 27.5,
+    "showTips": "金币价值162",
+    "price": 110198
+  },
+  {
+    "id": 55,
+    "realParam": 28,
+    "showTips": "金币价值165",
+    "price": 116036
+  },
+  {
+    "id": 56,
+    "realParam": 28.5,
+    "showTips": "金币价值168",
+    "price": 120144
+  },
+  {
+    "id": 57,
+    "realParam": 29,
+    "showTips": "金币价值171",
+    "price": 125189
+  },
+  {
+    "id": 58,
+    "realParam": 29.5,
+    "showTips": "金币价值174",
+    "price": 130450
+  },
+  {
+    "id": 59,
+    "realParam": 30,
+    "showTips": "金币价值177",
+    "price": 135712
+  },
+  {
+    "id": 60,
+    "realParam": 30.5,
+    "showTips": "金币价值180",
+    "price": 169369
+  },
+  {
+    "id": 61,
+    "realParam": 31,
+    "showTips": "金币价值183",
+    "price": 177297
+  },
+  {
+    "id": 62,
+    "realParam": 31.5,
+    "showTips": "金币价值186",
+    "price": 184000
+  },
+  {
+    "id": 63,
+    "realParam": 32,
+    "showTips": "金币价值189",
+    "price": 192216
+  },
+  {
+    "id": 64,
+    "realParam": 32.5,
+    "showTips": "金币价值192",
+    "price": 199279
+  },
+  {
+    "id": 65,
+    "realParam": 33,
+    "showTips": "金币价值195",
+    "price": 207784
+  },
+  {
+    "id": 66,
+    "realParam": 33.5,
+    "showTips": "金币价值198",
+    "price": 216432
+  },
+  {
+    "id": 67,
+    "realParam": 34,
+    "showTips": "金币价值201",
+    "price": 225297
+  },
+  {
+    "id": 68,
+    "realParam": 34.5,
+    "showTips": "金币价值204",
+    "price": 306739
+  },
+  {
+    "id": 69,
+    "realParam": 35,
+    "showTips": "金币价值207",
+    "price": 315099
+  },
+  {
+    "id": 70,
+    "realParam": 35.5,
+    "showTips": "金币价值210",
+    "price": 375207
+  },
+  {
+    "id": 71,
+    "realParam": 36,
+    "showTips": "金币价值213",
+    "price": 382847
+  },
+  {
+    "id": 72,
+    "realParam": 36.5,
+    "showTips": "金币价值216",
+    "price": 390559
+  },
+  {
+    "id": 73,
+    "realParam": 37,
+    "showTips": "金币价值219",
+    "price": 400721
+  },
+  {
+    "id": 74,
+    "realParam": 37.5,
+    "showTips": "金币价值222",
+    "price": 408577
+  },
+  {
+    "id": 75,
+    "realParam": 38,
+    "showTips": "金币价值225",
+    "price": 416505
+  },
+  {
+    "id": 76,
+    "realParam": 38.5,
+    "showTips": "金币价值228",
+    "price": 424505
+  },
+  {
+    "id": 77,
+    "realParam": 39,
+    "showTips": "金币价值231",
+    "price": 435099
+  },
+  {
+    "id": 78,
+    "realParam": 39.5,
+    "showTips": "金币价值234",
+    "price": 443243
+  },
+  {
+    "id": 79,
+    "realParam": 40,
+    "showTips": "金币价值237",
+    "price": 451459
+  },
+  {
+    "id": 80,
+    "realParam": 40.5,
+    "showTips": "金币价值240",
+    "price": 525477
+  },
+  {
+    "id": 81,
+    "realParam": 41,
+    "showTips": "金币价值243",
+    "price": 538018
+  },
+  {
+    "id": 82,
+    "realParam": 41.5,
+    "showTips": "金币价值246",
+    "price": 547676
+  },
+  {
+    "id": 83,
+    "realParam": 42,
+    "showTips": "金币价值249",
+    "price": 557405
+  },
+  {
+    "id": 84,
+    "realParam": 42.5,
+    "showTips": "金币价值252",
+    "price": 567207
+  },
+  {
+    "id": 85,
+    "realParam": 43,
+    "showTips": "金币价值255",
+    "price": 580252
+  },
+  {
+    "id": 86,
+    "realParam": 43.5,
+    "showTips": "金币价值258",
+    "price": 590270
+  },
+  {
+    "id": 87,
+    "realParam": 44,
+    "showTips": "金币价值261",
+    "price": 600360
+  },
+  {
+    "id": 88,
+    "realParam": 44.5,
+    "showTips": "金币价值264",
+    "price": 610523
+  },
+  {
+    "id": 89,
+    "realParam": 45,
+    "showTips": "金币价值267",
+    "price": 624000
+  },
+  {
+    "id": 90,
+    "realParam": 45.5,
+    "showTips": "金币价值270",
+    "price": 713586
+  },
+  {
+    "id": 91,
+    "realParam": 46,
+    "showTips": "金币价值273",
+    "price": 734993
+  },
+  {
+    "id": 92,
+    "realParam": 46.5,
+    "showTips": "金币价值276",
+    "price": 757043
+  },
+  {
+    "id": 93,
+    "realParam": 47,
+    "showTips": "金币价值279",
+    "price": 779754
+  },
+  {
+    "id": 94,
+    "realParam": 47.5,
+    "showTips": "金币价值282",
+    "price": 803147
+  },
+  {
+    "id": 95,
+    "realParam": 48,
+    "showTips": "金币价值285",
+    "price": 827241
+  },
+  {
+    "id": 96,
+    "realParam": 48.5,
+    "showTips": "金币价值288",
+    "price": 852059
+  },
+  {
+    "id": 97,
+    "realParam": 49,
+    "showTips": "金币价值291",
+    "price": 877620
+  },
+  {
+    "id": 98,
+    "realParam": 49.5,
+    "showTips": "金币价值294",
+    "price": 903949
+  },
+  {
+    "id": 99,
+    "realParam": 50,
+    "showTips": "金币价值297",
+    "price": 931067
+  },
+  {
+    "id": 100,
+    "realParam": 50.5,
+    "showTips": "金币价值300",
+    "price": 958999
+  }
+]

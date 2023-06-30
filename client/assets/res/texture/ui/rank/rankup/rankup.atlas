@@ -1,0 +1,62 @@
+
+rankup.png
+size: 719,559
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ball
+  rotate: true
+  xy: 308, 279
+  size: 278, 266
+  orig: 278, 266
+  offset: 0, 0
+  index: -1
+black
+  rotate: true
+  xy: 2, 31
+  size: 194, 236
+  orig: 194, 236
+  offset: 0, 0
+  index: -1
+flag
+  rotate: false
+  xy: 240, 34
+  size: 72, 191
+  orig: 72, 191
+  offset: 0, 0
+  index: -1
+frame
+  rotate: true
+  xy: 503, 2
+  size: 168, 178
+  orig: 168, 178
+  offset: 0, 0
+  index: -1
+main
+  rotate: false
+  xy: 314, 19
+  size: 187, 258
+  orig: 187, 258
+  offset: 0, 0
+  index: -1
+queen
+  rotate: true
+  xy: 2, 227
+  size: 330, 304
+  orig: 330, 304
+  offset: 0, 0
+  index: -1
+wing01
+  rotate: false
+  xy: 503, 172
+  size: 180, 105
+  orig: 180, 105
+  offset: 0, 0
+  index: -1
+wing02
+  rotate: true
+  xy: 576, 387
+  size: 170, 141
+  orig: 170, 141
+  offset: 0, 0
+  index: -1

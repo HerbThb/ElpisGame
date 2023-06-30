@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "25ecb58c-93f9-4526-b258-903888dc26a1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "battle-bg-lebo": {
+      "ver": "1.0.4",
+      "uuid": "8240312e-d4e1-416b-a4d0-0fb16f949b15",
+      "rawTextureUuid": "25ecb58c-93f9-4526-b258-903888dc26a1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 198,
+      "height": 109,
+      "rawWidth": 198,
+      "rawHeight": 109,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

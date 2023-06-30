@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Iron Spiderman",
+    "heroSkin": 12,
+    "knifeSkin": 34,
+    "skill": 1,
+    "skillTips": "Spider Silk"
+  },
+  {
+    "id": 2,
+    "name": "Lighting Pika",
+    "heroSkin": 9,
+    "knifeSkin": 30,
+    "skill": 2,
+    "skillTips": "Thunderbolt"
+  },
+  {
+    "id": 3,
+    "name": "Nezha Sets",
+    "heroSkin": 13,
+    "knifeSkin": 35,
+    "skill": 3,
+    "skillTips": "Nezha Sash"
+  },
+  {
+    "id": 4,
+    "name": "Zero Sets",
+    "heroSkin": 14,
+    "knifeSkin": 37,
+    "skill": 4,
+    "skillTips": "Thrashing chorus"
+  },
+  {
+    "id": 5,
+    "name": "Batman Sets",
+    "heroSkin": 15,
+    "knifeSkin": 38,
+    "skill": 5,
+    "skillTips": "Shadow attack"
+  },
+  {
+    "id": 6,
+    "name": "Bob Sets",
+    "heroSkin": 10,
+    "knifeSkin": 33,
+    "skill": 6,
+    "skillTips": "Eating banana"
+  }
+]

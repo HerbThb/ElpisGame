@@ -1,0 +1,50 @@
+[
+  {
+    "payIndex": 0,
+    "iconIndex": 0,
+    "desc": "2 Diamond",
+    "isAdItem": 1,
+    "price": 0,
+    "diamond": 2
+  },
+  {
+    "payIndex": 1,
+    "iconIndex": 1,
+    "desc": "10 Diamond",
+    "isAdItem": 0,
+    "price": "US$1.99",
+    "diamond": 10
+  },
+  {
+    "payIndex": 2,
+    "iconIndex": 1,
+    "desc": "50 Diamond",
+    "isAdItem": 0,
+    "price": "US$7.99",
+    "diamond": 50
+  },
+  {
+    "payIndex": 3,
+    "iconIndex": 1,
+    "desc": "100 Diamond",
+    "isAdItem": 0,
+    "price": "US$14.99",
+    "diamond": 100
+  },
+  {
+    "payIndex": 4,
+    "iconIndex": 1,
+    "desc": "250 Diamond",
+    "isAdItem": 0,
+  "price": "US$29.99",
+    "diamond": 250
+  },
+  {
+    "payIndex": 5,
+    "iconIndex": 2,
+    "desc": "500 Diamond",
+    "isAdItem": 0,
+    "price": "US$54.99",
+    "diamond": 500
+  }
+]

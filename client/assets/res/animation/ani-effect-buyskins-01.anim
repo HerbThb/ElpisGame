@@ -1,0 +1,25 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ani-effect-buyskins-01",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 20.033333333333335,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "props": {
+      "angle": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 20.033333333333335,
+          "value": -360
+        }
+      ]
+    }
+  },
+  "events": []
+}

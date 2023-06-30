@@ -1,0 +1,80 @@
+[
+  {
+    "id": 0,
+    "score": -180,
+    "strongNum": 0,
+    "weakNum": 6
+  },
+  {
+    "id": 1,
+    "score": -150,
+    "strongNum": 0,
+    "weakNum": 5
+  },
+  {
+    "id": 2,
+    "score": -120,
+    "strongNum": 0,
+    "weakNum": 4
+  },
+  {
+    "id": 3,
+    "score": -90,
+    "strongNum": 0,
+    "weakNum": 3
+  },
+  {
+    "id": 4,
+    "score": -60,
+    "strongNum": 0,
+    "weakNum": 2
+  },
+  {
+    "id": 5,
+    "score": -30,
+    "strongNum": 0,
+    "weakNum": 1
+  },
+  {
+    "id": 6,
+    "score": 0,
+    "strongNum": 0,
+    "weakNum": 0
+  },
+  {
+    "id": 7,
+    "score": 30,
+    "strongNum": 1,
+    "weakNum": 0
+  },
+  {
+    "id": 8,
+    "score": 60,
+    "strongNum": 2,
+    "weakNum": 0
+  },
+  {
+    "id": 9,
+    "score": 90,
+    "strongNum": 3,
+    "weakNum": 0
+  },
+  {
+    "id": 10,
+    "score": 120,
+    "strongNum": 4,
+    "weakNum": 0
+  },
+  {
+    "id": 11,
+    "score": 150,
+    "strongNum": 5,
+    "weakNum": 0
+  },
+  {
+    "id": 12,
+    "score": 180,
+    "strongNum": 6,
+    "weakNum": 0
+  }
+]

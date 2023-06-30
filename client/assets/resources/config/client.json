@@ -1,0 +1,126 @@
+[
+  {
+    "shareSuccessPercents": [
+      30,
+      50,
+      70
+    ],
+    "shareSuccessWaitTime": 3,
+    "shareLimitFailCount": 2,
+    "reviveWays": [
+      0,
+      1,
+      0,
+      1
+    ],
+    "shareFailTips": [
+      "Please don't disturb the same group frequently，Please share again",
+      "Please share it with your friends"
+    ],
+    "multipGoldWays": [
+      0,
+      1,
+      0,
+      1
+    ],
+    "trySkinMinPlayCount": 3,
+    "tryHeroSkinMinQuality": 9,
+    "tryKnifeSkinMinQuality": 8,
+    "trySkinTimeInterval": [
+      1,
+      2,
+      3
+    ],
+    "luckyRewardLimitCount": 5,
+    "luckyRewardMultips": [
+      7,
+      7,
+      7
+    ],
+    "protectStarWays": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "tipsRankLimit": 5,
+    "bornFrenzyLimit": 5,
+    "offlineGoldInterval": 10,
+    "offlineGoldNormalCount": 0.3,
+    "offlineGoldMultipLimit": 3600,
+    "growLevelUpWays": [
+      "10-20-30-40-50-60-70-80-90",
+      "10-20-30-40-50-60-70-80-90",
+      "10-20-30-40-50-60-70-80-90",
+      "10-20-30-40-50-60-70-80-90"
+    ],
+    "adverReviveLimit": [
+      1,
+      3,
+      5,
+      10,
+      15
+    ],
+    "adverTrySkinLimit": [
+      1,
+      3,
+      5,
+      10,
+      15
+    ],
+    "growLimit": [
+      5,
+      20
+    ],
+    "stopAdverToShare": 1,
+    "multipGoldLimit": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "frenzyLimit": 4,
+    "stagePrecents": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "dayShowWayLimit": [
+      0,
+      6,
+      1,
+      3,
+      1,
+      2
+    ],
+    "maxRefreshTaskCount": 2,
+    "duanWuStartDate": "2019-06-07 03:00:00",
+    "duanWuEndDate": "2093-06-21 03:00:00",
+    "zongZiToGold": 500,
+    "dayMultAgainCDCount": 2,
+    "dayMultAgainMinPlayCount": 10,
+    "hideSpecialSkin": 1,
+    "adverReviveFailToShare": 1,
+    "judgeArea": 1,
+    "judgeAreaTimeInterval": "1,2,3,4,5",
+    "defaultShareScore": 5,
+    "secondDayMinShareScore": 1,
+    "maxShareScore": 20,
+    "hideTrySkin": 1,
+    "hideAddTop": 1,
+    "hideHolidayRank": 1
+  }
+]

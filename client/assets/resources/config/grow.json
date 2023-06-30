@@ -1,0 +1,38 @@
+[
+  {
+    "id": 0,
+    "name": "Break",
+    "file": "grow-attack",
+    "maxLevel": 100,
+    "tips": "Break: a knife that has a chance to fly an opponent's defense.",
+    "lockTips": "累计玩20局游戏解锁",
+    "param": 20
+  },
+  {
+    "id": 1,
+    "name": "Defense",
+    "file": "grow-defence",
+    "maxLevel": 100,
+    "tips": "Defense: reduces the chance that a flying knife will be shot during defense",
+    "lockTips": "累计玩20局游戏解锁",
+    "param": 20
+  },
+  {
+    "id": 2,
+    "name": "Speed",
+    "file": "grow-speed",
+    "maxLevel": 100,
+    "tips": "Speed: increases the movement speed of heroes",
+    "lockTips": "累计玩5局游戏解锁",
+    "param": 5
+  },
+  {
+    "id": 3,
+    "name": "Gold",
+    "file": "grow-gold",
+    "maxLevel": 100,
+    "tips": "Gold coin earnings: increase the number of settlement gold coins and offline gold coins",
+    "lockTips": "累计玩5局游戏解锁",
+    "param": 5
+  }
+]

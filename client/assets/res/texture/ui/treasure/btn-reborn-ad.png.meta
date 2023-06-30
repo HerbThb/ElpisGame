@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "0476b0cf-cbad-42c8-b620-02386f959f47",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "btn-reborn-ad": {
+      "ver": "1.0.4",
+      "uuid": "2fcdd4dc-bb91-496d-b598-815338ca1e0e",
+      "rawTextureUuid": "0476b0cf-cbad-42c8-b620-02386f959f47",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 46,
+      "height": 30,
+      "rawWidth": 46,
+      "rawHeight": 30,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

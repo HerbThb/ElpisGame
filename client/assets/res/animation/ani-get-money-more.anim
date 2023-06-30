@@ -1,0 +1,955 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ani-get-money-more",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.1666666666666667,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "1": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": [
+                157,
+                94
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                157,
+                94
+              ],
+              "motionPath": [
+                [
+                  -2,
+                  237,
+                  67,
+                  146,
+                  -103,
+                  369
+                ]
+              ],
+              "curve": "cubicIn"
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": [
+                -195,
+                555
+              ],
+              "motionPath": []
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 1.1,
+              "value": 255
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "2": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": [
+                169,
+                46
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                169,
+                46
+              ],
+              "motionPath": [
+                [
+                  21,
+                  166,
+                  82,
+                  80,
+                  -86,
+                  317
+                ]
+              ],
+              "curve": "cubicIn"
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": [
+                -195,
+                558
+              ],
+              "motionPath": []
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 1.1,
+              "value": 255
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "3": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": [
+                187,
+                -14
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                187,
+                -14
+              ],
+              "motionPath": [
+                [
+                  26,
+                  136,
+                  71,
+                  70,
+                  -86,
+                  301
+                ]
+              ],
+              "curve": "cubicIn"
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": [
+                -197,
+                552
+              ],
+              "motionPath": []
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 1.1,
+              "value": 255
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "4": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": [
+                -24,
+                144
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                -24,
+                144
+              ],
+              "curve": "cubicIn"
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": [
+                -199,
+                554
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 1.1,
+              "value": 255
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "5": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": [
+                -73,
+                165
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                -73,
+                165
+              ],
+              "curve": "cubicIn"
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": [
+                -204,
+                555
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 1.1,
+              "value": 255
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "6": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": [
+                -212,
+                67
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                -212,
+                67
+              ],
+              "motionPath": [
+                [
+                  -149,
+                  318,
+                  -153,
+                  198,
+                  -146,
+                  445
+                ]
+              ],
+              "curve": "cubicIn"
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": [
+                -198,
+                562
+              ],
+              "motionPath": []
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 1.1,
+              "value": 255
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "7": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": [
+                186,
+                -105
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                186,
+                -105
+              ],
+              "motionPath": [
+                [
+                  45,
+                  93,
+                  113,
+                  -24,
+                  -68,
+                  288
+                ]
+              ],
+              "curve": "cubicIn"
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": [
+                -200,
+                560
+              ],
+              "motionPath": []
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 1.1,
+              "value": 255
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "8": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": [
+                -184,
+                -110
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                -184,
+                -110
+              ],
+              "motionPath": [
+                [
+                  -133,
+                  213,
+                  -128,
+                  56,
+                  -138,
+                  384
+                ]
+              ],
+              "curve": "cubicIn"
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": [
+                -203,
+                548
+              ],
+              "motionPath": []
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 1.1,
+              "value": 255
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "9": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": [
+                -131,
+                -147
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                -131,
+                -147
+              ],
+              "motionPath": [
+                [
+                  -105,
+                  164,
+                  -89,
+                  10,
+                  -125,
+                  358
+                ]
+              ],
+              "curve": "cubicIn"
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": [
+                -204,
+                559
+              ],
+              "motionPath": []
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 1.1,
+              "value": 255
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "10": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": [
+                149,
+                -165
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                149,
+                -165
+              ],
+              "curve": "cubicIn"
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": [
+                -208,
+                558
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 1.1,
+              "value": 255
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "11": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": [
+                -250,
+                -46
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                -250,
+                -46
+              ],
+              "motionPath": [
+                [
+                  -135,
+                  178,
+                  -146,
+                  44,
+                  -123,
+                  342
+                ]
+              ],
+              "curve": "cubicIn"
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": [
+                -204,
+                555
+              ],
+              "motionPath": []
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 1.1,
+              "value": 255
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "12": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": [
+                13,
+                -166
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                13,
+                -166
+              ],
+              "motionPath": [
+                [
+                  -20,
+                  23,
+                  12,
+                  -82,
+                  -85,
+                  233
+                ]
+              ],
+              "curve": "cubicIn"
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": [
+                -206,
+                544
+              ],
+              "motionPath": []
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 1.1,
+              "value": 255
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "13": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0
+              ]
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": [
+                22,
+                155
+              ]
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                22,
+                155
+              ],
+              "curve": "cubicIn"
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": [
+                -209,
+                557
+              ]
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 1.1,
+              "value": 255
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "14": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": [
+                102,
+                131
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                102,
+                131
+              ],
+              "motionPath": [
+                [
+                  28,
+                  196,
+                  61,
+                  150,
+                  -61,
+                  319
+                ]
+              ],
+              "curve": "cubicIn"
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": [
+                -206,
+                556
+              ],
+              "motionPath": []
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 1.1,
+              "value": 255
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "15": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": [
+                -57,
+                -192
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                -57,
+                -192
+              ],
+              "motionPath": [
+                [
+                  -57,
+                  73,
+                  -29,
+                  -64,
+                  -101,
+                  290
+                ]
+              ],
+              "curve": "cubicIn"
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": [
+                -209,
+                555
+              ],
+              "motionPath": []
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 1.1,
+              "value": 255
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "16": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 0.16666666666666666,
+              "value": [
+                -118,
+                127
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 0.5,
+              "value": [
+                -118,
+                127
+              ],
+              "motionPath": [
+                [
+                  -124,
+                  271,
+                  -108,
+                  192,
+                  -148,
+                  395
+                ]
+              ],
+              "curve": "cubicIn"
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": [
+                -203,
+                555
+              ],
+              "motionPath": []
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 1.1,
+              "value": 255
+            },
+            {
+              "frame": 1.1666666666666667,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

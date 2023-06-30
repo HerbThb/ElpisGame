@@ -1,0 +1,63 @@
+{
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "com.riceball.gpknives",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "appBundle": false,
+  "baidugame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "testappid",
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "encryptJs": true,
+  "excludeScenes": [
+    "f299d9ae-1eb2-4d4b-a461-9abd8dda8724",
+    "767ac338-6b45-4e0b-813d-95803d4995a6"
+  ],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": false
+  },
+  "packageName": "com.riceball.gpknives",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait",
+    "zip": false
+  },
+  "startScene": "0e0bf9cf-a2c1-4c58-a2d7-a70efae89b00",
+  "title": "knife",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "https://knife666-static.boomegg.cn",
+    "appid": "1108737585",
+    "orientation": "portrait",
+    "subContext": "WechatSubProject"
+  },
+  "xxteaKey": "28c6de02-2fbb-44",
+  "zipCompressJs": true,
+  "android": {
+    "packageName": "com.riceball.gpknives"
+  },
+  "ios": {
+    "packageName": "com.riceball.gpknives"
+  },
+  "mac": {
+    "packageName": "com.riceball.gpknives"
+  },
+  "win32": {}
+}

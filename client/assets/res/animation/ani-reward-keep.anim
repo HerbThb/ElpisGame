@@ -1,0 +1,53 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ani-reward-keep",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            0,
+            175
+          ]
+        },
+        {
+          "frame": 2,
+          "value": [
+            0,
+            -173
+          ]
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.13333333333333333,
+          "value": 50
+        },
+        {
+          "frame": 0.9333333333333333,
+          "value": 100
+        },
+        {
+          "frame": 1.8333333333333333,
+          "value": 50
+        },
+        {
+          "frame": 2,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": []
+}

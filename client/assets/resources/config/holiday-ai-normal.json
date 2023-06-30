@@ -1,0 +1,56 @@
+[
+  {
+    "time": [
+      6,
+      7
+    ],
+    "timeInterval": [
+      5,
+      20
+    ],
+    "scoreRange": [
+      1,
+      8
+    ],
+    "scoreLimit": [
+      5,
+      20
+    ]
+  },
+  {
+    "time": [
+      9,
+      10
+    ],
+    "timeInterval": [
+      5,
+      20
+    ],
+    "scoreRange": [
+      1,
+      8
+    ],
+    "scoreLimit": [
+      20,
+      30
+    ]
+  },
+  {
+    "time": [
+      12,
+      13
+    ],
+    "timeInterval": [
+      5,
+      20
+    ],
+    "scoreRange": [
+      1,
+      10
+    ],
+    "scoreLimit": [
+      30,
+      40
+    ]
+  }
+]

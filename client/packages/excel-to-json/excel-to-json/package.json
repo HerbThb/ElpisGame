@@ -1,0 +1,22 @@
+{
+  "name": "excel-to-json",
+  "version": "0.0.1",
+  "description": "The package template for getting started.",
+  "author": "Cocos Creator",
+  "main": "main.js",
+  "main-menu": {
+    "i18n:MAIN_MENU.package.title/excel-to-json/open": {
+      "message": "excel-to-json:open"
+    },
+    "i18n:MAIN_MENU.package.title/excel-to-json/hello": {
+      "message": "excel-to-json:say-hello"
+    }
+  },
+  "panel": {
+    "main": "panel/index.js",
+    "type": "dockable",
+    "title": "excel-to-json",
+    "width": 400,
+    "height": 300
+  }
+}

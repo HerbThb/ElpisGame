@@ -1,0 +1,2003 @@
+[
+  {
+    "id": 0,
+    "name": "Bronze1",
+    "playerCount": 4,
+    "star": 0,
+    "levelUpStar": 1,
+    "addStarRanks": [
+      1,
+      2,
+      3
+    ],
+    "addKnifeInterval": 3.7,
+    "goldMultiRate": 0,
+    "getGold": [
+      80,
+      40,
+      20,
+      10
+    ],
+    "blockNum": 0,
+    "aiSkinMax": 5,
+    "aiHeroSkinRandomCount": 0,
+    "aiHeroSkinMax": 0,
+    "aiRankRange": [
+      0,
+      2
+    ],
+    "url": "texture/icon/icon-rank-01",
+    "iconIndex": 0,
+    "winHideScore": 0,
+    "loseHideScore": 0,
+    "canLevelDown": 0,
+    "mapPool": [
+      0
+    ],
+    "isRankFirst": 1
+  },
+  {
+    "id": 1,
+    "name": "Bronze2",
+    "playerCount": 5,
+    "star": 1,
+    "levelUpStar": 1,
+    "addStarRanks": [
+      1,
+      2,
+      3
+    ],
+    "addKnifeInterval": 3.7,
+    "goldMultiRate": 0.04,
+    "getGold": [
+      80,
+      40,
+      20,
+      10,
+      5
+    ],
+    "blockNum": 0,
+    "aiSkinMax": 5,
+    "aiHeroSkinRandomCount": 0,
+    "aiHeroSkinMax": 0,
+    "aiRankRange": [
+      0,
+      2
+    ],
+    "url": "texture/icon/icon-rank-02",
+    "iconIndex": 1,
+    "winHideScore": 0,
+    "loseHideScore": 0,
+    "reward": "0,0,100",
+    "canLevelDown": 0,
+    "mapPool": [
+      0
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Silver1",
+    "playerCount": 6,
+    "star": 2,
+    "levelUpStar": 2,
+    "addStarRanks": [
+      1,
+      2,
+      3
+    ],
+    "addKnifeInterval": 3.1,
+    "goldMultiRate": 0.1,
+    "getGold": [
+      100,
+      50,
+      25,
+      13,
+      6,
+      3
+    ],
+    "blockNum": 1,
+    "aiSkinMax": 9,
+    "aiHeroSkinRandomCount": 6,
+    "aiHeroSkinMax": 6,
+    "aiRankRange": [
+      1,
+      3
+    ],
+    "url": "texture/icon/icon-rank-11",
+    "iconIndex": 2,
+    "winHideScore": 0,
+    "loseHideScore": 0,
+    "reward": "1,17,1",
+    "canLevelDown": 0,
+    "buffPool": [
+      1
+    ],
+    "unlockBuff": 1,
+    "unlockTips": "Unlock: Speed up",
+    "mapPool": [
+      0
+    ],
+    "isRankFirst": 1
+  },
+  {
+    "id": 3,
+    "name": "Silver2",
+    "playerCount": 7,
+    "star": 4,
+    "levelUpStar": 2,
+    "addStarRanks": [
+      1,
+      2,
+      3
+    ],
+    "addKnifeInterval": 3.1,
+    "goldMultiRate": 0.15,
+    "getGold": [
+      100,
+      50,
+      25,
+      13,
+      6,
+      3,
+      1
+    ],
+    "blockNum": 1,
+    "aiSkinMax": 9,
+    "aiHeroSkinRandomCount": 7,
+    "aiHeroSkinMax": 6,
+    "aiRankRange": [
+      2,
+      4
+    ],
+    "url": "texture/icon/icon-rank-12",
+    "iconIndex": 3,
+    "winHideScore": 0,
+    "loseHideScore": 0,
+    "reward": "0,0,200",
+    "canLevelDown": 0,
+    "buffPool": [
+      1
+    ],
+    "mapPool": [
+      0
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Gold1",
+    "playerCount": 8,
+    "star": 6,
+    "levelUpStar": 3,
+    "addStarRanks": [
+      1
+    ],
+    "addKnifeInterval": 2.7,
+    "goldMultiRate": 0.45,
+    "getGold": [
+      120,
+      60,
+      30,
+      15,
+      8,
+      4,
+      2,
+      1
+    ],
+    "blockNum": 2,
+    "aiSkinMax": 15,
+    "aiHeroSkinRandomCount": 8,
+    "aiHeroSkinMax": 6,
+    "aiRankRange": [
+      3,
+      5
+    ],
+    "url": "texture/icon/icon-rank-21",
+    "iconIndex": 5,
+    "winHideScore": 0,
+    "loseHideScore": 0,
+    "reward": "1,18,1",
+    "canLevelDown": 0,
+    "buffPool": [
+      1,
+      3
+    ],
+    "unlockBuff": 3,
+    "unlockTips": "Unlock: Magnet",
+    "mapPool": [
+      0,
+      1
+    ],
+    "unlockMap": 1,
+    "unlockMapTips": "Unlock: Spiral nebula",
+    "unlockSpecial": 0,
+    "unlockSpecialTips": "Unlock: Be super storm",
+    "isRankFirst": 1
+  },
+  {
+    "id": 5,
+    "name": "Gold2",
+    "playerCount": 8,
+    "star": 9,
+    "levelUpStar": 3,
+    "addStarRanks": [
+      1
+    ],
+    "addKnifeInterval": 2.7,
+    "goldMultiRate": 0.55,
+    "getGold": [
+      120,
+      60,
+      30,
+      15,
+      8,
+      4,
+      2,
+      1
+    ],
+    "blockNum": 2,
+    "aiSkinMax": 15,
+    "aiHeroSkinRandomCount": 8,
+    "aiHeroSkinMax": 6,
+    "aiRankRange": [
+      4,
+      6
+    ],
+    "url": "texture/icon/icon-rank-22",
+    "iconIndex": 6,
+    "winHideScore": 10,
+    "loseHideScore": -5,
+    "reward": "0,0,500",
+    "canLevelDown": 0,
+    "buffPool": [
+      1,
+      3
+    ],
+    "mapPool": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Gold3",
+    "playerCount": 8,
+    "star": 12,
+    "levelUpStar": 3,
+    "addStarRanks": [
+      1
+    ],
+    "addKnifeInterval": 2.7,
+    "goldMultiRate": 0.65,
+    "getGold": [
+      120,
+      60,
+      30,
+      15,
+      8,
+      4,
+      2,
+      1
+    ],
+    "blockNum": 2,
+    "aiSkinMax": 15,
+    "aiHeroSkinRandomCount": 8,
+    "aiHeroSkinMax": 6,
+    "aiRankRange": [
+      5,
+      7
+    ],
+    "url": "texture/icon/icon-rank-23",
+    "iconIndex": 7,
+    "winHideScore": 10,
+    "loseHideScore": -5,
+    "canLevelDown": 0,
+    "buffPool": [
+      1,
+      3
+    ],
+    "mapPool": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Platinum1",
+    "playerCount": 8,
+    "star": 15,
+    "levelUpStar": 3,
+    "addStarRanks": [
+      1
+    ],
+    "addKnifeInterval": 2.4,
+    "goldMultiRate": 1.1,
+    "getGold": [
+      140,
+      70,
+      35,
+      18,
+      9,
+      4,
+      2,
+      1
+    ],
+    "blockNum": 2,
+    "aiSkinMax": 19,
+    "aiHeroSkinRandomCount": 8,
+    "aiHeroSkinMax": 9,
+    "aiRankRange": [
+      6,
+      8
+    ],
+    "url": "texture/icon/icon-rank-31",
+    "iconIndex": 9,
+    "winHideScore": 10,
+    "loseHideScore": -5,
+    "reward": "1,19,1",
+    "canLevelDown": 0,
+    "buffPool": [
+      1,
+      3,
+      2
+    ],
+    "unlockBuff": 2,
+    "unlockTips": "Unlock: invincible",
+    "mapPool": [
+      0,
+      1
+    ],
+    "isRankFirst": 1
+  },
+  {
+    "id": 8,
+    "name": "Platinum2",
+    "playerCount": 8,
+    "star": 18,
+    "levelUpStar": 3,
+    "addStarRanks": [
+      1
+    ],
+    "addKnifeInterval": 2.4,
+    "goldMultiRate": 1.3,
+    "getGold": [
+      140,
+      70,
+      35,
+      18,
+      9,
+      4,
+      2,
+      1
+    ],
+    "blockNum": 3,
+    "aiSkinMax": 19,
+    "aiHeroSkinRandomCount": 8,
+    "aiHeroSkinMax": 9,
+    "aiRankRange": [
+      8,
+      10
+    ],
+    "url": "texture/icon/icon-rank-32",
+    "iconIndex": 10,
+    "winHideScore": 10,
+    "loseHideScore": -5,
+    "canLevelDown": 0,
+    "buffPool": [
+      1,
+      3,
+      2
+    ],
+    "boxPool": [
+      0
+    ],
+    "unlockBox": 0,
+    "unlockBoxTips": "Unlock: Knives box",
+    "mapPool": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Platinum3",
+    "playerCount": 8,
+    "star": 21,
+    "levelUpStar": 3,
+    "addStarRanks": [
+      1
+    ],
+    "addKnifeInterval": 2.4,
+    "goldMultiRate": 1.5,
+    "getGold": [
+      140,
+      70,
+      35,
+      18,
+      9,
+      4,
+      2,
+      1
+    ],
+    "blockNum": 3,
+    "aiSkinMax": 19,
+    "aiHeroSkinRandomCount": 8,
+    "aiHeroSkinMax": 9,
+    "aiRankRange": [
+      9,
+      11
+    ],
+    "url": "texture/icon/icon-rank-33",
+    "iconIndex": 11,
+    "winHideScore": 10,
+    "loseHideScore": -5,
+    "reward": "0,0,1000",
+    "canLevelDown": 0,
+    "buffPool": [
+      1,
+      3,
+      2
+    ],
+    "boxPool": [
+      0
+    ],
+    "mapPool": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Platinum4",
+    "playerCount": 8,
+    "star": 24,
+    "levelUpStar": 3,
+    "addStarRanks": [
+      1
+    ],
+    "addKnifeInterval": 2.4,
+    "goldMultiRate": 1.7,
+    "getGold": [
+      140,
+      70,
+      35,
+      18,
+      9,
+      4,
+      2,
+      1
+    ],
+    "blockNum": 3,
+    "aiSkinMax": 19,
+    "aiHeroSkinRandomCount": 8,
+    "aiHeroSkinMax": 9,
+    "aiRankRange": [
+      10,
+      12
+    ],
+    "url": "texture/icon/icon-rank-34",
+    "iconIndex": 12,
+    "winHideScore": 10,
+    "loseHideScore": -5,
+    "canLevelDown": 0,
+    "buffPool": [
+      1,
+      3,
+      2
+    ],
+    "boxPool": [
+      0
+    ],
+    "mapPool": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Platinum5",
+    "playerCount": 8,
+    "star": 27,
+    "levelUpStar": 3,
+    "addStarRanks": [
+      1
+    ],
+    "addKnifeInterval": 2.4,
+    "goldMultiRate": 1.9,
+    "getGold": [
+      140,
+      70,
+      35,
+      18,
+      9,
+      4,
+      2,
+      1
+    ],
+    "blockNum": 3,
+    "aiSkinMax": 19,
+    "aiHeroSkinRandomCount": 8,
+    "aiHeroSkinMax": 9,
+    "aiRankRange": [
+      11,
+      14
+    ],
+    "url": "texture/icon/icon-rank-35",
+    "iconIndex": 13,
+    "winHideScore": 10,
+    "loseHideScore": -5,
+    "canLevelDown": 0,
+    "buffPool": [
+      1,
+      3,
+      2
+    ],
+    "boxPool": [
+      0
+    ],
+    "mapPool": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Diamond1",
+    "playerCount": 8,
+    "star": 30,
+    "levelUpStar": 4,
+    "addStarRanks": [
+      1
+    ],
+    "addKnifeInterval": 2.2,
+    "goldMultiRate": 2.6,
+    "getGold": [
+      160,
+      80,
+      40,
+      20,
+      10,
+      5,
+      3,
+      1
+    ],
+    "blockNum": 3,
+    "aiSkinMax": 27,
+    "aiHeroSkinRandomCount": 8,
+    "aiHeroSkinMax": 12,
+    "aiRankRange": [
+      12,
+      15
+    ],
+    "url": "texture/icon/icon-rank-41",
+    "iconIndex": 14,
+    "winHideScore": 10,
+    "loseHideScore": -3,
+    "reward": "1,20,1",
+    "canLevelDown": 0,
+    "buffPool": [
+      1,
+      3,
+      2,
+      0
+    ],
+    "unlockBuff": 0,
+    "unlockTips": "Unlock: Grow",
+    "boxPool": [
+      0
+    ],
+    "mapPool": [
+      0,
+      1
+    ],
+    "isRankFirst": 1
+  },
+  {
+    "id": 13,
+    "name": "Diamond2",
+    "playerCount": 8,
+    "star": 34,
+    "levelUpStar": 4,
+    "addStarRanks": [
+      1
+    ],
+    "addKnifeInterval": 2.2,
+    "goldMultiRate": 2.9,
+    "getGold": [
+      160,
+      80,
+      40,
+      20,
+      10,
+      5,
+      3,
+      1
+    ],
+    "blockNum": 3,
+    "aiSkinMax": 27,
+    "aiHeroSkinRandomCount": 8,
+    "aiHeroSkinMax": 12,
+    "aiRankRange": [
+      13,
+      16
+    ],
+    "url": "texture/icon/icon-rank-42",
+    "iconIndex": 15,
+    "winHideScore": 10,
+    "loseHideScore": -3,
+    "canLevelDown": 0,
+    "buffPool": [
+      1,
+      3,
+      2,
+      0
+    ],
+    "boxPool": [
+      0,
+      1
+    ],
+    "unlockBox": 1,
+    "unlockBoxTips": "Unlock: Gold box",
+    "mapPool": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Diamond3",
+    "playerCount": 8,
+    "star": 38,
+    "levelUpStar": 4,
+    "addStarRanks": [
+      1
+    ],
+    "addKnifeInterval": 2.2,
+    "goldMultiRate": 3.2,
+    "getGold": [
+      160,
+      80,
+      40,
+      20,
+      10,
+      5,
+      3,
+      1
+    ],
+    "blockNum": 3,
+    "aiSkinMax": 27,
+    "aiHeroSkinRandomCount": 8,
+    "aiHeroSkinMax": 12,
+    "aiRankRange": [
+      14,
+      17
+    ],
+    "url": "texture/icon/icon-rank-43",
+    "iconIndex": 16,
+    "winHideScore": 10,
+    "loseHideScore": -3,
+    "canLevelDown": 0,
+    "buffPool": [
+      1,
+      3,
+      2,
+      0
+    ],
+    "boxPool": [
+      0,
+      1
+    ],
+    "mapPool": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Diamond4",
+    "playerCount": 8,
+    "star": 42,
+    "levelUpStar": 4,
+    "addStarRanks": [
+      1
+    ],
+    "addKnifeInterval": 2.2,
+    "goldMultiRate": 3.5,
+    "getGold": [
+      160,
+      80,
+      40,
+      20,
+      10,
+      5,
+      3,
+      1
+    ],
+    "blockNum": 3,
+    "aiSkinMax": 27,
+    "aiHeroSkinRandomCount": 8,
+    "aiHeroSkinMax": 12,
+    "aiRankRange": [
+      15,
+      18
+    ],
+    "url": "texture/icon/icon-rank-44",
+    "iconIndex": 17,
+    "winHideScore": 10,
+    "loseHideScore": -3,
+    "reward": "0,0,5000",
+    "canLevelDown": 0,
+    "buffPool": [
+      1,
+      3,
+      2,
+      0
+    ],
+    "boxPool": [
+      0,
+      1
+    ],
+    "mapPool": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Diamond5",
+    "playerCount": 8,
+    "star": 46,
+    "levelUpStar": 4,
+    "addStarRanks": [
+      1
+    ],
+    "addKnifeInterval": 2.2,
+    "goldMultiRate": 3.8,
+    "getGold": [
+      160,
+      80,
+      40,
+      20,
+      10,
+      5,
+      3,
+      1
+    ],
+    "blockNum": 3,
+    "aiSkinMax": 27,
+    "aiHeroSkinRandomCount": 8,
+    "aiHeroSkinMax": 12,
+    "aiRankRange": [
+      16,
+      19
+    ],
+    "url": "texture/icon/icon-rank-45",
+    "iconIndex": 18,
+    "winHideScore": 10,
+    "loseHideScore": -3,
+    "canLevelDown": 0,
+    "buffPool": [
+      1,
+      3,
+      2,
+      0
+    ],
+    "boxPool": [
+      0,
+      1
+    ],
+    "mapPool": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Diamond6",
+    "playerCount": 8,
+    "star": 50,
+    "levelUpStar": 4,
+    "addStarRanks": [
+      1
+    ],
+    "addKnifeInterval": 2.2,
+    "goldMultiRate": 4.1,
+    "getGold": [
+      160,
+      80,
+      40,
+      20,
+      10,
+      5,
+      3,
+      1
+    ],
+    "blockNum": 3,
+    "aiSkinMax": 27,
+    "aiHeroSkinRandomCount": 8,
+    "aiHeroSkinMax": 12,
+    "aiRankRange": [
+      17,
+      20
+    ],
+    "url": "texture/icon/icon-rank-46",
+    "iconIndex": 19,
+    "winHideScore": 10,
+    "loseHideScore": -3,
+    "canLevelDown": 0,
+    "buffPool": [
+      1,
+      3,
+      2,
+      0
+    ],
+    "boxPool": [
+      0,
+      1
+    ],
+    "mapPool": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Diamond7",
+    "playerCount": 8,
+    "star": 54,
+    "levelUpStar": 4,
+    "addStarRanks": [
+      1
+    ],
+    "addKnifeInterval": 2.2,
+    "goldMultiRate": 4.4,
+    "getGold": [
+      160,
+      80,
+      40,
+      20,
+      10,
+      5,
+      3,
+      1
+    ],
+    "blockNum": 3,
+    "aiSkinMax": 27,
+    "aiHeroSkinRandomCount": 8,
+    "aiHeroSkinMax": 12,
+    "aiRankRange": [
+      18,
+      21
+    ],
+    "url": "texture/icon/icon-rank-47",
+    "iconIndex": 20,
+    "winHideScore": 10,
+    "loseHideScore": -3,
+    "canLevelDown": 0,
+    "buffPool": [
+      1,
+      3,
+      2,
+      0
+    ],
+    "boxPool": [
+      0,
+      1
+    ],
+    "mapPool": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Master1",
+    "playerCount": 8,
+    "star": 58,
+    "levelUpStar": 5,
+    "addStarRanks": [
+      1
+    ],
+    "addKnifeInterval": 2,
+    "goldMultiRate": 5.3,
+    "getGold": [
+      160,
+      80,
+      40,
+      20,
+      10,
+      5,
+      3,
+      1
+    ],
+    "blockNum": 3,
+    "aiSkinMax": 32,
+    "aiHeroSkinRandomCount": 8,
+    "aiHeroSkinMax": 13,
+    "aiRankRange": [
+      19,
+      22
+    ],
+    "url": "texture/icon/icon-rank-51",
+    "iconIndex": 21,
+    "winHideScore": 10,
+    "loseHideScore": -3,
+    "reward": "1,21,1",
+    "canLevelDown": 0,
+    "buffPool": [
+      1,
+      3,
+      2,
+      0
+    ],
+    "boxPool": [
+      0,
+      1,
+      2
+    ],
+    "unlockBox": 2,
+    "unlockBoxTips": "Unlock: Items box",
+    "mapPool": [
+      0,
+      1
+    ],
+    "isRankFirst": 1
+  },
+  {
+    "id": 20,
+    "name": "Master2",
+    "playerCount": 8,
+    "star": 63,
+    "levelUpStar": 5,
+    "addStarRanks": [
+      1
+    ],
+    "addKnifeInterval": 2,
+    "goldMultiRate": 5.7,
+    "getGold": [
+      160,
+      80,
+      40,
+      20,
+      10,
+      5,
+      3,
+      1
+    ],
+    "blockNum": 3,
+    "aiSkinMax": 32,
+    "aiHeroSkinRandomCount": 8,
+    "aiHeroSkinMax": 13,
+    "aiRankRange": [
+      20,
+      23
+    ],
+    "url": "texture/icon/icon-rank-52",
+    "iconIndex": 22,
+    "winHideScore": 10,
+    "loseHideScore": -3,
+    "canLevelDown": 0,
+    "buffPool": [
+      1,
+      3,
+      2,
+      0
+    ],
+    "boxPool": [
+      0,
+      1,
+      2
+    ],
+    "mapPool": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Master3",
+    "playerCount": 8,
+    "star": 68,
+    "levelUpStar": 5,
+    "addStarRanks": [
+      1
+    ],
+    "addKnifeInterval": 2,
+    "goldMultiRate": 6.1,
+    "getGold": [
+      160,
+      80,
+      40,
+      20,
+      10,
+      5,
+      3,
+      1
+    ],
+    "blockNum": 3,
+    "aiSkinMax": 32,
+    "aiHeroSkinRandomCount": 8,
+    "aiHeroSkinMax": 13,
+    "aiRankRange": [
+      21,
+      24
+    ],
+    "url": "texture/icon/icon-rank-53",
+    "iconIndex": 23,
+    "winHideScore": 10,
+    "loseHideScore": -3,
+    "canLevelDown": 0,
+    "buffPool": [
+      1,
+      3,
+      2,
+      0
+    ],
+    "boxPool": [
+      0,
+      1,
+      2
+    ],
+    "mapPool": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Master4",
+    "playerCount": 8,
+    "star": 73,
+    "levelUpStar": 5,
+    "addStarRanks": [
+      1
+    ],
+    "addKnifeInterval": 2,
+    "goldMultiRate": 6.5,
+    "getGold": [
+      160,
+      80,
+      40,
+      20,
+      10,
+      5,
+      3,
+      1
+    ],
+    "blockNum": 3,
+    "aiSkinMax": 32,
+    "aiHeroSkinRandomCount": 8,
+    "aiHeroSkinMax": 13,
+    "aiRankRange": [
+      22,
+      25
+    ],
+    "url": "texture/icon/icon-rank-54",
+    "iconIndex": 24,
+    "winHideScore": 10,
+    "loseHideScore": -3,
+    "canLevelDown": 0,
+    "buffPool": [
+      1,
+      3,
+      2,
+      0
+    ],
+    "boxPool": [
+      0,
+      1,
+      2
+    ],
+    "mapPool": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Master5",
+    "playerCount": 8,
+    "star": 78,
+    "levelUpStar": 5,
+    "addStarRanks": [
+      1
+    ],
+    "addKnifeInterval": 2,
+    "goldMultiRate": 6.9,
+    "getGold": [
+      160,
+      80,
+      40,
+      20,
+      10,
+      5,
+      3,
+      1
+    ],
+    "blockNum": 3,
+    "aiSkinMax": 32,
+    "aiHeroSkinRandomCount": 8,
+    "aiHeroSkinMax": 13,
+    "aiRankRange": [
+      23,
+      26
+    ],
+    "url": "texture/icon/icon-rank-55",
+    "iconIndex": 25,
+    "winHideScore": 10,
+    "loseHideScore": -3,
+    "reward": "0,0,10000",
+    "canLevelDown": 0,
+    "buffPool": [
+      1,
+      3,
+      2,
+      0
+    ],
+    "boxPool": [
+      0,
+      1,
+      2
+    ],
+    "mapPool": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Master6",
+    "playerCount": 8,
+    "star": 83,
+    "levelUpStar": 5,
+    "addStarRanks": [
+      1
+    ],
+    "addKnifeInterval": 2,
+    "goldMultiRate": 7.3,
+    "getGold": [
+      160,
+      80,
+      40,
+      20,
+      10,
+      5,
+      3,
+      1
+    ],
+    "blockNum": 3,
+    "aiSkinMax": 32,
+    "aiHeroSkinRandomCount": 8,
+    "aiHeroSkinMax": 13,
+    "aiRankRange": [
+      24,
+      27
+    ],
+    "url": "texture/icon/icon-rank-56",
+    "iconIndex": 26,
+    "winHideScore": 10,
+    "loseHideScore": -3,
+    "canLevelDown": 0,
+    "buffPool": [
+      1,
+      3,
+      2,
+      0
+    ],
+    "boxPool": [
+      0,
+      1,
+      2
+    ],
+    "mapPool": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Master7",
+    "playerCount": 8,
+    "star": 88,
+    "levelUpStar": 5,
+    "addStarRanks": [
+      1
+    ],
+    "addKnifeInterval": 2,
+    "goldMultiRate": 7.7,
+    "getGold": [
+      160,
+      80,
+      40,
+      20,
+      10,
+      5,
+      3,
+      1
+    ],
+    "blockNum": 3,
+    "aiSkinMax": 32,
+    "aiHeroSkinRandomCount": 8,
+    "aiHeroSkinMax": 13,
+    "aiRankRange": [
+      25,
+      28
+    ],
+    "url": "texture/icon/icon-rank-57",
+    "iconIndex": 27,
+    "winHideScore": 10,
+    "loseHideScore": -3,
+    "canLevelDown": 0,
+    "buffPool": [
+      1,
+      3,
+      2,
+      0
+    ],
+    "boxPool": [
+      0,
+      1,
+      2
+    ],
+    "mapPool": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Master8",
+    "playerCount": 8,
+    "star": 93,
+    "levelUpStar": 5,
+    "addStarRanks": [
+      1
+    ],
+    "addKnifeInterval": 2,
+    "goldMultiRate": 8.1,
+    "getGold": [
+      160,
+      80,
+      40,
+      20,
+      10,
+      5,
+      3,
+      1
+    ],
+    "blockNum": 3,
+    "aiSkinMax": 32,
+    "aiHeroSkinRandomCount": 8,
+    "aiHeroSkinMax": 13,
+    "aiRankRange": [
+      25,
+      28
+    ],
+    "url": "texture/icon/icon-rank-58",
+    "iconIndex": 28,
+    "winHideScore": 10,
+    "loseHideScore": -3,
+    "canLevelDown": 0,
+    "buffPool": [
+      1,
+      3,
+      2,
+      0
+    ],
+    "boxPool": [
+      0,
+      1,
+      2
+    ],
+    "mapPool": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Master9",
+    "playerCount": 8,
+    "star": 98,
+    "levelUpStar": 5,
+    "addStarRanks": [
+      1
+    ],
+    "addKnifeInterval": 2,
+    "goldMultiRate": 8.5,
+    "getGold": [
+      160,
+      80,
+      40,
+      20,
+      10,
+      5,
+      3,
+      1
+    ],
+    "blockNum": 3,
+    "aiSkinMax": 32,
+    "aiHeroSkinRandomCount": 8,
+    "aiHeroSkinMax": 13,
+    "aiRankRange": [
+      25,
+      28
+    ],
+    "url": "texture/icon/icon-rank-59",
+    "iconIndex": 29,
+    "winHideScore": 10,
+    "loseHideScore": -3,
+    "canLevelDown": 0,
+    "buffPool": [
+      1,
+      3,
+      2,
+      0
+    ],
+    "boxPool": [
+      0,
+      1,
+      2
+    ],
+    "mapPool": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Legend1",
+    "playerCount": 8,
+    "star": 103,
+    "levelUpStar": 5,
+    "addStarRanks": [
+      1
+    ],
+    "addKnifeInterval": 2,
+    "goldMultiRate": 10,
+    "getGold": [
+      160,
+      80,
+      40,
+      20,
+      10,
+      5,
+      3,
+      1
+    ],
+    "blockNum": 3,
+    "aiSkinMax": 35,
+    "aiHeroSkinRandomCount": 8,
+    "aiHeroSkinMax": 13,
+    "aiRankRange": [
+      25,
+      28
+    ],
+    "url": "texture/icon/icon-rank-62",
+    "iconIndex": 30,
+    "winHideScore": 10,
+    "loseHideScore": -3,
+    "reward": "1,31,1",
+    "canLevelDown": 0,
+    "buffPool": [
+      1,
+      3,
+      2,
+      0
+    ],
+    "boxPool": [
+      0,
+      1,
+      2
+    ],
+    "mapPool": [
+      0,
+      1
+    ],
+    "isRankFirst": 1,
+    "unlockWait": 1
+  },
+  {
+    "id": 29,
+    "name": "Legend2",
+    "playerCount": 8,
+    "star": 108,
+    "levelUpStar": 5,
+    "addStarRanks": [
+      1
+    ],
+    "addKnifeInterval": 2,
+    "goldMultiRate": 10.4,
+    "getGold": [
+      160,
+      80,
+      40,
+      20,
+      10,
+      5,
+      3,
+      1
+    ],
+    "blockNum": 3,
+    "aiSkinMax": 35,
+    "aiHeroSkinRandomCount": 8,
+    "aiHeroSkinMax": 13,
+    "aiRankRange": [
+      25,
+      28
+    ],
+    "url": "texture/icon/icon-rank-63",
+    "iconIndex": 31,
+    "winHideScore": 10,
+    "loseHideScore": -3,
+    "canLevelDown": 0,
+    "buffPool": [
+      1,
+      3,
+      2,
+      0
+    ],
+    "boxPool": [
+      0,
+      1,
+      2
+    ],
+    "mapPool": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Legend3",
+    "playerCount": 8,
+    "star": 113,
+    "levelUpStar": 5,
+    "addStarRanks": [
+      1
+    ],
+    "addKnifeInterval": 2,
+    "goldMultiRate": 10.8,
+    "getGold": [
+      160,
+      80,
+      40,
+      20,
+      10,
+      5,
+      3,
+      1
+    ],
+    "blockNum": 3,
+    "aiSkinMax": 35,
+    "aiHeroSkinRandomCount": 8,
+    "aiHeroSkinMax": 13,
+    "aiRankRange": [
+      25,
+      28
+    ],
+    "url": "texture/icon/icon-rank-64",
+    "iconIndex": 32,
+    "winHideScore": 10,
+    "loseHideScore": -3,
+    "canLevelDown": 0,
+    "buffPool": [
+      1,
+      3,
+      2,
+      0
+    ],
+    "boxPool": [
+      0,
+      1,
+      2
+    ],
+    "mapPool": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Legend4",
+    "playerCount": 8,
+    "star": 118,
+    "levelUpStar": 5,
+    "addStarRanks": [
+      1
+    ],
+    "addKnifeInterval": 2,
+    "goldMultiRate": 11.2,
+    "getGold": [
+      160,
+      80,
+      40,
+      20,
+      10,
+      5,
+      3,
+      1
+    ],
+    "blockNum": 3,
+    "aiSkinMax": 35,
+    "aiHeroSkinRandomCount": 8,
+    "aiHeroSkinMax": 13,
+    "aiRankRange": [
+      25,
+      28
+    ],
+    "url": "texture/icon/icon-rank-65",
+    "iconIndex": 33,
+    "winHideScore": 10,
+    "loseHideScore": -3,
+    "canLevelDown": 0,
+    "buffPool": [
+      1,
+      3,
+      2,
+      0
+    ],
+    "boxPool": [
+      0,
+      1,
+      2
+    ],
+    "mapPool": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Legend5",
+    "playerCount": 8,
+    "star": 123,
+    "levelUpStar": 5,
+    "addStarRanks": [
+      1
+    ],
+    "addKnifeInterval": 2,
+    "goldMultiRate": 11.6,
+    "getGold": [
+      160,
+      80,
+      40,
+      20,
+      10,
+      5,
+      3,
+      1
+    ],
+    "blockNum": 3,
+    "aiSkinMax": 35,
+    "aiHeroSkinRandomCount": 8,
+    "aiHeroSkinMax": 13,
+    "aiRankRange": [
+      25,
+      28
+    ],
+    "url": "texture/icon/icon-rank-66",
+    "iconIndex": 34,
+    "winHideScore": 10,
+    "loseHideScore": -3,
+    "reward": "0,0,15000",
+    "canLevelDown": 0,
+    "buffPool": [
+      1,
+      3,
+      2,
+      0
+    ],
+    "boxPool": [
+      0,
+      1,
+      2
+    ],
+    "mapPool": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Legend6",
+    "playerCount": 8,
+    "star": 128,
+    "levelUpStar": 5,
+    "addStarRanks": [
+      1
+    ],
+    "addKnifeInterval": 2,
+    "goldMultiRate": 12,
+    "getGold": [
+      160,
+      80,
+      40,
+      20,
+      10,
+      5,
+      3,
+      1
+    ],
+    "blockNum": 3,
+    "aiSkinMax": 35,
+    "aiHeroSkinRandomCount": 8,
+    "aiHeroSkinMax": 13,
+    "aiRankRange": [
+      25,
+      28
+    ],
+    "url": "texture/icon/icon-rank-67",
+    "iconIndex": 35,
+    "winHideScore": 10,
+    "loseHideScore": -3,
+    "canLevelDown": 0,
+    "buffPool": [
+      1,
+      3,
+      2,
+      0
+    ],
+    "boxPool": [
+      0,
+      1,
+      2
+    ],
+    "mapPool": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Legend7",
+    "playerCount": 8,
+    "star": 133,
+    "levelUpStar": 5,
+    "addStarRanks": [
+      1
+    ],
+    "addKnifeInterval": 2,
+    "goldMultiRate": 12.4,
+    "getGold": [
+      160,
+      80,
+      40,
+      20,
+      10,
+      5,
+      3,
+      1
+    ],
+    "blockNum": 3,
+    "aiSkinMax": 35,
+    "aiHeroSkinRandomCount": 8,
+    "aiHeroSkinMax": 13,
+    "aiRankRange": [
+      25,
+      28
+    ],
+    "url": "texture/icon/icon-rank-68",
+    "iconIndex": 36,
+    "winHideScore": 10,
+    "loseHideScore": -3,
+    "canLevelDown": 0,
+    "buffPool": [
+      1,
+      3,
+      2,
+      0
+    ],
+    "boxPool": [
+      0,
+      1,
+      2
+    ],
+    "mapPool": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Legend8",
+    "playerCount": 8,
+    "star": 138,
+    "levelUpStar": 5,
+    "addStarRanks": [
+      1
+    ],
+    "addKnifeInterval": 2,
+    "goldMultiRate": 12.8,
+    "getGold": [
+      160,
+      80,
+      40,
+      20,
+      10,
+      5,
+      3,
+      1
+    ],
+    "blockNum": 3,
+    "aiSkinMax": 35,
+    "aiHeroSkinRandomCount": 8,
+    "aiHeroSkinMax": 13,
+    "aiRankRange": [
+      25,
+      28
+    ],
+    "url": "texture/icon/icon-rank-69",
+    "iconIndex": 37,
+    "winHideScore": 10,
+    "loseHideScore": -3,
+    "canLevelDown": 0,
+    "buffPool": [
+      1,
+      3,
+      2,
+      0
+    ],
+    "boxPool": [
+      0,
+      1,
+      2
+    ],
+    "mapPool": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Legend9",
+    "playerCount": 8,
+    "star": 143,
+    "levelUpStar": 5,
+    "addStarRanks": [
+      1
+    ],
+    "addKnifeInterval": 2,
+    "goldMultiRate": 13.2,
+    "getGold": [
+      160,
+      80,
+      40,
+      20,
+      10,
+      5,
+      3,
+      1
+    ],
+    "blockNum": 3,
+    "aiSkinMax": 35,
+    "aiHeroSkinRandomCount": 8,
+    "aiHeroSkinMax": 13,
+    "aiRankRange": [
+      25,
+      28
+    ],
+    "url": "texture/icon/icon-rank-70",
+    "iconIndex": 38,
+    "winHideScore": 10,
+    "loseHideScore": -3,
+    "canLevelDown": 0,
+    "buffPool": [
+      1,
+      3,
+      2,
+      0
+    ],
+    "boxPool": [
+      0,
+      1,
+      2
+    ],
+    "mapPool": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Legend10",
+    "playerCount": 8,
+    "star": 148,
+    "levelUpStar": 5,
+    "addStarRanks": [
+      1
+    ],
+    "addKnifeInterval": 2,
+    "goldMultiRate": 13.6,
+    "getGold": [
+      160,
+      80,
+      40,
+      20,
+      10,
+      5,
+      3,
+      1
+    ],
+    "blockNum": 3,
+    "aiSkinMax": 35,
+    "aiHeroSkinRandomCount": 8,
+    "aiHeroSkinMax": 13,
+    "aiRankRange": [
+      25,
+      28
+    ],
+    "url": "texture/icon/icon-rank-71",
+    "iconIndex": 39,
+    "winHideScore": 10,
+    "loseHideScore": -3,
+    "canLevelDown": 0,
+    "buffPool": [
+      1,
+      3,
+      2,
+      0
+    ],
+    "boxPool": [
+      0,
+      1,
+      2
+    ],
+    "mapPool": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Legend11",
+    "playerCount": 8,
+    "star": 153,
+    "levelUpStar": 5,
+    "addStarRanks": [
+      1
+    ],
+    "addKnifeInterval": 2,
+    "goldMultiRate": 14,
+    "getGold": [
+      160,
+      80,
+      40,
+      20,
+      10,
+      5,
+      3,
+      1
+    ],
+    "blockNum": 3,
+    "aiSkinMax": 35,
+    "aiHeroSkinRandomCount": 8,
+    "aiHeroSkinMax": 13,
+    "aiRankRange": [
+      25,
+      28
+    ],
+    "url": "texture/icon/icon-rank-72",
+    "iconIndex": 40,
+    "winHideScore": 10,
+    "loseHideScore": -3,
+    "canLevelDown": 0,
+    "buffPool": [
+      1,
+      3,
+      2,
+      0
+    ],
+    "boxPool": [
+      0,
+      1,
+      2
+    ],
+    "mapPool": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Legend12",
+    "playerCount": 8,
+    "star": 158,
+    "levelUpStar": 5,
+    "addStarRanks": [
+      1
+    ],
+    "addKnifeInterval": 2,
+    "goldMultiRate": 14.4,
+    "getGold": [
+      160,
+      80,
+      40,
+      20,
+      10,
+      5,
+      3,
+      1
+    ],
+    "blockNum": 3,
+    "aiSkinMax": 35,
+    "aiHeroSkinRandomCount": 8,
+    "aiHeroSkinMax": 13,
+    "aiRankRange": [
+      25,
+      28
+    ],
+    "url": "texture/icon/icon-rank-73",
+    "iconIndex": 41,
+    "winHideScore": 10,
+    "loseHideScore": -3,
+    "canLevelDown": 0,
+    "buffPool": [
+      1,
+      3,
+      2,
+      0
+    ],
+    "boxPool": [
+      0,
+      1,
+      2
+    ],
+    "mapPool": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 40,
+    "name": "King",
+    "playerCount": 8,
+    "star": 163,
+    "levelUpStar": 0,
+    "addStarRanks": [
+      1
+    ],
+    "addKnifeInterval": 1.8,
+    "goldMultiRate": 16,
+    "getGold": [
+      160,
+      80,
+      40,
+      20,
+      10,
+      5,
+      3,
+      1
+    ],
+    "blockNum": 3,
+    "aiSkinMax": 35,
+    "aiHeroSkinRandomCount": 8,
+    "aiHeroSkinMax": 13,
+    "aiRankRange": [
+      25,
+      28
+    ],
+    "url": "texture/icon/icon-rank-61",
+    "iconIndex": 42,
+    "winHideScore": 10,
+    "loseHideScore": -3,
+    "reward": "1,22,1",
+    "canLevelDown": 0,
+    "buffPool": [
+      1,
+      3,
+      2,
+      0
+    ],
+    "boxPool": [
+      0,
+      1,
+      2
+    ],
+    "mapPool": [
+      0,
+      1
+    ],
+    "isRankFirst": 1,
+    "unlockWait": 1
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "753138f6-f590-4bd4-bca7-d756f7af1090",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "effect-batman-04": {
+      "ver": "1.0.4",
+      "uuid": "6695d949-1b52-432d-b1d3-522c2af5da48",
+      "rawTextureUuid": "753138f6-f590-4bd4-bca7-d756f7af1090",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 166,
+      "height": 152,
+      "rawWidth": 166,
+      "rawHeight": 152,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

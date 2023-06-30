@@ -1,0 +1,34 @@
+{
+  "ver": "2.3.3",
+  "uuid": "e1e3898c-408c-415c-8c07-217c6ef2e0af",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "platformSettings": {},
+  "subMetas": {
+    "ui-ineedweapon-02": {
+      "ver": "1.0.4",
+      "uuid": "33f8e6d0-cdd9-46e5-84ac-22f1be19523d",
+      "rawTextureUuid": "e1e3898c-408c-415c-8c07-217c6ef2e0af",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 174,
+      "height": 26,
+      "rawWidth": 174,
+      "rawHeight": 26,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

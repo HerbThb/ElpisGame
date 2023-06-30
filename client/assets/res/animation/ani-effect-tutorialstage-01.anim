@@ -1,0 +1,107 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ani-effect-tutorialstage-01",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.5,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "a": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 7.92
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 5.5
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 5.15
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 1
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.3,
+              "value": 200
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "b": {
+        "props": {
+          "scaleX": [
+            {
+              "frame": 0,
+              "value": 5.5
+            },
+            {
+              "frame": 0.3,
+              "value": 5.5
+            },
+            {
+              "frame": 0.5,
+              "value": 4.56
+            }
+          ],
+          "scaleY": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 0.3,
+              "value": 1
+            },
+            {
+              "frame": 0.5,
+              "value": 0.71
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.26666666666666666,
+              "value": 0
+            },
+            {
+              "frame": 0.3333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 0.5,
+              "value": 0
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ani-effect-btn-result",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -132.1,
+            0
+          ]
+        },
+        {
+          "frame": 0.4,
+          "value": [
+            127,
+            0
+          ]
+        },
+        {
+          "frame": 0.5,
+          "value": [
+            -132.1,
+            0
+          ]
+        },
+        {
+          "frame": 0.9666666666666667,
+          "value": [
+            127,
+            0
+          ]
+        },
+        {
+          "frame": 2,
+          "value": [
+            127,
+            0
+          ]
+        }
+      ],
+      "opacity": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.06666666666666667,
+          "value": 200
+        },
+        {
+          "frame": 0.3333333333333333,
+          "value": 200
+        },
+        {
+          "frame": 0.4,
+          "value": 0
+        },
+        {
+          "frame": 0.5,
+          "value": 0
+        },
+        {
+          "frame": 0.5666666666666667,
+          "value": 200
+        },
+        {
+          "frame": 0.9,
+          "value": 200
+        },
+        {
+          "frame": 0.9666666666666667,
+          "value": 0
+        },
+        {
+          "frame": 2,
+          "value": 0
+        }
+      ]
+    }
+  },
+  "events": []
+}

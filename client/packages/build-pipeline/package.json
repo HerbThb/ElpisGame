@@ -1,0 +1,160 @@
+{
+  "name": "build-pipeline",
+  "version": "0.0.1",
+  "description": "The package template for getting started.",
+  "author": "Cocos Creator",
+  "main": "main.js",
+  "main-menu": {
+    "i18n:MAIN_MENU.package.title/build/DevelopTest": {
+      "message": "build-pipeline:DevelopTest",
+      "accelerator": "Ctrl+Cmd+Shift+t"
+    },
+    "i18n:MAIN_MENU.package.title/build/微信/基础处理": {
+      "message": "build-pipeline:WechatBaseProcess"
+    },
+    "i18n:MAIN_MENU.package.title/build/微信/修改Webpack相关JS": {
+      "message": "build-pipeline:WechatModifyWebpackJSFile"
+    },
+    "i18n:MAIN_MENU.package.title/build/微信/使用Webpack打包JS": {
+      "message": "build-pipeline:WechatBuildPostProcess",
+      "accelerator": "Ctrl+Shift+1"
+    },
+    "i18n:MAIN_MENU.package.title/build/微信/取消URL合法性检查": {
+      "message": "build-pipeline:WechatUncheckUrl",
+      "accelerator": "Ctrl+Shift+2"
+    },
+    "i18n:MAIN_MENU.package.title/build/微信/PUBLISH一条龙处理": {
+      "message": "build-pipeline:WechatPublishAutoProcess"
+    },
+    "i18n:MAIN_MENU.package.title/build/QQ/基础处理": {
+      "message": "build-pipeline:QQPlayBaseProcess"
+    },
+    "i18n:MAIN_MENU.package.title/build/QQ/渠道处理": {
+      "message": "build-pipeline:QQPlayBuildPostProcess"
+    },
+    "i18n:MAIN_MENU.package.title/build/QQ/BRICK打压缩包": {
+      "message": "build-pipeline:QQPlayZip",
+      "accelerator": "Ctrl+Cmd+Shift+Alt+z"
+    },
+    "i18n:MAIN_MENU.package.title/build/QQ/H5打压缩包": {
+      "message": "build-pipeline:QQPlayZipH5",
+      "accelerator": "Ctrl+Cmd+Shift+z"
+    },
+    "i18n:MAIN_MENU.package.title/build/QQ/BRICK拷贝build模板文件": {
+      "message": "build-pipeline:QQPlayCopyBuildTemplates",
+      "accelerator": "Ctrl+Cmd+Shift+x"
+    },
+    "i18n:MAIN_MENU.package.title/build/QQ/H5拷贝build模板文件": {
+      "message": "build-pipeline:QQPlayH5CopyBuildTemplates",
+      "accelerator": "Ctrl+Cmd+Shift+Alt+x"
+    },
+    "i18n:MAIN_MENU.package.title/build/QQ/H5根据enterUrl移动文件": {
+      "message": "build-pipeline:QQPlayH5MoveFileToSubDir",
+      "accelerator": "Ctrl+Cmd+Shift+m"
+    },
+    "i18n:MAIN_MENU.package.title/build/QQ/PUBLISH一条龙处理": {
+      "message": "build-pipeline:QQPublishAutoProcess"
+    },
+    "i18n:MAIN_MENU.package.title/build/JSB/基础处理": {
+      "message": "build-pipeline:JsbBaseProcess"
+    },
+    "i18n:MAIN_MENU.package.title/build/JSB/移除脚本文件md5信息": {
+      "message": "build-pipeline:CommonRemoveSrcMd5Info"
+    },
+    "i18n:MAIN_MENU.package.title/build/OPPO/基础处理": {
+      "message": "build-pipeline:OppoBuildPostProcess",
+      "accelerator": "Ctrl+Cmd+Shift+o"
+    },
+    "i18n:MAIN_MENU.package.title/build/OPPO/打zip包": {
+      "message": "build-pipeline:OppoH5Zip",
+      "accelerator": "Ctrl+Cmd+Shift+Alt+z"
+    },
+    "i18n:MAIN_MENU.package.title/build/OPPO/打签名包": {
+      "message": "build-pipeline:OppoH5SignPackage"
+    },
+    "i18n:MAIN_MENU.package.title/build/OPPO/PUSH到手机": {
+      "message": "build-pipeline:OppoAdbPush",
+      "accelerator": "Ctrl+Cmd+Shift+Alt+s"
+    },
+    "i18n:MAIN_MENU.package.title/build/OPPO/DEBUG一条龙处理": {
+      "message": "build-pipeline:OppoDebugAutoProcess",
+      "accelerator": "Ctrl+Cmd+Shift+Alt+d"
+    },
+    "i18n:MAIN_MENU.package.title/build/OPPO/PUBLISH一条龙处理": {
+      "message": "build-pipeline:OppoPublishAutoProcess",
+      "accelerator": "Ctrl+Cmd+Shift+Alt+p"
+    },
+    "i18n:MAIN_MENU.package.title/build/VIVO/DEBUG一条龙处理": {
+      "message": "build-pipeline:VivoDebugAutoProcess",
+      "accelerator": "Ctrl+Cmd+Shift+Alt+8"
+    },
+    "i18n:MAIN_MENU.package.title/build/VIVO/PUBLISH一条龙处理": {
+      "message": "build-pipeline:VivoPublishAutoProcess",
+      "accelerator": "Ctrl+Cmd+Shift+Alt+9"
+    },
+    "i18n:MAIN_MENU.package.title/build/QQMiniApp/基础处理": {
+      "message": "build-pipeline:QQMiniAppBuildPostProcess",
+      "accelerator": "Ctrl+Shift+Alt+6"
+    },
+    "i18n:MAIN_MENU.package.title/build/QQMiniApp/PUBLISH一条龙处理": {
+      "message": "build-pipeline:QQMiniAppPublishAutoProcess",
+      "accelerator": "Ctrl+Shift+Alt+7"
+    },
+    "i18n:MAIN_MENU.package.title/build/通用/修改H5SDK相关代码": {
+      "message": "build-pipeline:CommonModifyH5SdkCode"
+    },
+    "i18n:MAIN_MENU.package.title/build/通用/压缩材质": {
+      "message": "build-pipeline:CommonCompressTexture",
+      "accelerator": "Ctrl+Cmd+Shift+c"
+    },
+    "i18n:MAIN_MENU.package.title/build/通用/移动res资源到文件服务器(mac)": {
+      "message": "build-pipeline:CommonMoveResToServer",
+      "accelerator": "Ctrl+Cmd+Shift+f"
+    },
+    "i18n:MAIN_MENU.package.title/build/通用/移动res资源到svn对应目录": {
+      "message": "build-pipeline:CommonMoveResLocal",
+      "accelerator": "Ctrl+Cmd+Shift+a"
+    },
+    "i18n:MAIN_MENU.package.title/build/通用/移动build文件夹到svn对应目录": {
+      "message": "build-pipeline:CommonMoveBuildLocal",
+      "accelerator": "Ctrl+Cmd+Shift+Alt+a"
+    },
+    "i18n:MAIN_MENU.package.title/build/通用/DEBUG一条龙处理(mac)": {
+      "message": "build-pipeline:CommonDebugAutoProcess",
+      "accelerator": "Ctrl+Cmd+Shift+d"
+    },
+    "i18n:MAIN_MENU.package.title/build/PUBLISH一条龙处理": {
+      "message": "build-pipeline:CommonPublishAutoProcess",
+      "accelerator": "Ctrl+Cmd+Shift+p"
+    }
+  },
+  "panel": {
+    "main": "panel/index.js",
+    "type": "dockable",
+    "title": "build-pipeline",
+    "width": 400,
+    "height": 300
+  },
+  "dependencies": {
+    "archiver": "^3.0.0",
+    "cocos-build-tool": "^1.0.0",
+    "md5-file": "^4.0.0"
+  },
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "css-loader": "^1.0.0",
+    "file-loader": "^1.1.11",
+    "fs": "0.0.1-security",
+    "less": "^3.8.0",
+    "less-loader": "^4.1.0",
+    "ncp": "^2.0.0",
+    "path": "^0.12.7",
+    "rimraf": "^2.6.2",
+    "style-loader": "^0.21.0",
+    "url-loader": "^1.0.1",
+    "webpack": "^4.16.3",
+    "webpack-cli": "^3.1.0"
+  }
+}

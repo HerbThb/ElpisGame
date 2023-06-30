@@ -1,0 +1,299 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ani-effect-batman-skill-03",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2.1,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "A": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": true
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": false
+            },
+            {
+              "frame": 1.5666666666666667,
+              "value": true
+            },
+            {
+              "frame": 2.1,
+              "value": false
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 4,
+                "y": 4
+              }
+            },
+            {
+              "frame": 1,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.6699999570846558,
+                "y": 1.6699999570846558
+              }
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.6699999570846558,
+                "y": 1.6699999570846558
+              }
+            },
+            {
+              "frame": 1.5666666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 4,
+                "y": 4
+              }
+            },
+            {
+              "frame": 1.9333333333333333,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.6699999570846558,
+                "y": 1.6699999570846558
+              }
+            },
+            {
+              "frame": 2.1,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.6699999570846558,
+                "y": 1.6699999570846558
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 1,
+              "value": 255
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": 1
+            },
+            {
+              "frame": 1.5666666666666667,
+              "value": 1
+            },
+            {
+              "frame": 1.9333333333333333,
+              "value": 255
+            },
+            {
+              "frame": 2.1,
+              "value": 1
+            }
+          ]
+        }
+      },
+      "B": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 1,
+              "value": true
+            },
+            {
+              "frame": 1.7666666666666666,
+              "value": false
+            }
+          ],
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.6699999570846558,
+                "y": 1.6699999570846558
+              }
+            },
+            {
+              "frame": 1,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 4,
+                "y": 4
+              }
+            },
+            {
+              "frame": 1.5333333333333334,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.6699999570846558,
+                "y": 1.6699999570846558
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 255
+            },
+            {
+              "frame": 1,
+              "value": 1
+            },
+            {
+              "frame": 1.5666666666666667,
+              "value": 255
+            },
+            {
+              "frame": 1.7666666666666666,
+              "value": 1
+            }
+          ]
+        }
+      },
+      "effect-batman-14": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": true
+            },
+            {
+              "frame": 2.1,
+              "value": false
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": 1
+            },
+            {
+              "frame": 2,
+              "value": 255
+            },
+            {
+              "frame": 2.1,
+              "value": 1
+            }
+          ],
+          "scale": [
+            {
+              "frame": 1.6666666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.2999999523162842,
+                "y": 1
+              }
+            },
+            {
+              "frame": 2.1,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2,
+                "y": 0.5
+              }
+            }
+          ]
+        }
+      },
+      "effect-batman-14 copy": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": true
+            },
+            {
+              "frame": 2.1,
+              "value": false
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 1
+            },
+            {
+              "frame": 1.6666666666666667,
+              "value": 1
+            },
+            {
+              "frame": 2,
+              "value": 255
+            },
+            {
+              "frame": 2.1,
+              "value": 1
+            }
+          ],
+          "scale": [
+            {
+              "frame": 1.6666666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1.2999999523162842,
+                "y": 1
+              }
+            },
+            {
+              "frame": 2.1,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2,
+                "y": 0.5
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

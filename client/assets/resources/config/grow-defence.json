@@ -1,0 +1,602 @@
+[
+  {
+    "id": 1,
+    "realParam": 15,
+    "showTips": 15,
+    "price": 85
+  },
+  {
+    "id": 2,
+    "realParam": 18,
+    "showTips": 18,
+    "price": 177
+  },
+  {
+    "id": 3,
+    "realParam": 21,
+    "showTips": 21,
+    "price": 265
+  },
+  {
+    "id": 4,
+    "realParam": 24,
+    "showTips": 24,
+    "price": 360
+  },
+  {
+    "id": 5,
+    "realParam": 27,
+    "showTips": 27,
+    "price": 468
+  },
+  {
+    "id": 6,
+    "realParam": 30,
+    "showTips": 30,
+    "price": 541
+  },
+  {
+    "id": 7,
+    "realParam": 33,
+    "showTips": 33,
+    "price": 649
+  },
+  {
+    "id": 8,
+    "realParam": 36,
+    "showTips": 36,
+    "price": 757
+  },
+  {
+    "id": 9,
+    "realParam": 39,
+    "showTips": 39,
+    "price": 865
+  },
+  {
+    "id": 10,
+    "realParam": 42,
+    "showTips": 42,
+    "price": 1946
+  },
+  {
+    "id": 11,
+    "realParam": 44,
+    "showTips": 44,
+    "price": 2162
+  },
+  {
+    "id": 12,
+    "realParam": 46,
+    "showTips": 46,
+    "price": 2414
+  },
+  {
+    "id": 13,
+    "realParam": 48,
+    "showTips": 48,
+    "price": 2667
+  },
+  {
+    "id": 14,
+    "realParam": 50,
+    "showTips": 50,
+    "price": 2847
+  },
+  {
+    "id": 15,
+    "realParam": 52,
+    "showTips": 52,
+    "price": 3099
+  },
+  {
+    "id": 16,
+    "realParam": 54,
+    "showTips": 54,
+    "price": 3387
+  },
+  {
+    "id": 17,
+    "realParam": 56,
+    "showTips": 56,
+    "price": 3640
+  },
+  {
+    "id": 18,
+    "realParam": 58,
+    "showTips": 58,
+    "price": 3928
+  },
+  {
+    "id": 19,
+    "realParam": 60,
+    "showTips": 60,
+    "price": 4144
+  },
+  {
+    "id": 20,
+    "realParam": 62,
+    "showTips": 62,
+    "price": 4432
+  },
+  {
+    "id": 21,
+    "realParam": 63,
+    "showTips": 63,
+    "price": 4721
+  },
+  {
+    "id": 22,
+    "realParam": 64,
+    "showTips": 64,
+    "price": 5009
+  },
+  {
+    "id": 23,
+    "realParam": 65,
+    "showTips": 65,
+    "price": 5261
+  },
+  {
+    "id": 24,
+    "realParam": 66,
+    "showTips": 66,
+    "price": 5550
+  },
+  {
+    "id": 25,
+    "realParam": 67,
+    "showTips": 67,
+    "price": 5874
+  },
+  {
+    "id": 26,
+    "realParam": 68,
+    "showTips": 68,
+    "price": 6198
+  },
+  {
+    "id": 27,
+    "realParam": 69,
+    "showTips": 69,
+    "price": 6523
+  },
+  {
+    "id": 28,
+    "realParam": 70,
+    "showTips": 70,
+    "price": 6775
+  },
+  {
+    "id": 29,
+    "realParam": 71,
+    "showTips": 71,
+    "price": 7135
+  },
+  {
+    "id": 30,
+    "realParam": 72,
+    "showTips": 72,
+    "price": 11207
+  },
+  {
+    "id": 31,
+    "realParam": 73,
+    "showTips": 73,
+    "price": 11748
+  },
+  {
+    "id": 32,
+    "realParam": 74,
+    "showTips": 74,
+    "price": 12108
+  },
+  {
+    "id": 33,
+    "realParam": 75,
+    "showTips": 75,
+    "price": 12685
+  },
+  {
+    "id": 34,
+    "realParam": 76,
+    "showTips": 76,
+    "price": 13225
+  },
+  {
+    "id": 35,
+    "realParam": 77,
+    "showTips": 77,
+    "price": 13802
+  },
+  {
+    "id": 36,
+    "realParam": 78,
+    "showTips": 78,
+    "price": 14198
+  },
+  {
+    "id": 37,
+    "realParam": 79,
+    "showTips": 79,
+    "price": 14775
+  },
+  {
+    "id": 38,
+    "realParam": 80,
+    "showTips": 80,
+    "price": 15387
+  },
+  {
+    "id": 39,
+    "realParam": 81,
+    "showTips": 81,
+    "price": 16000
+  },
+  {
+    "id": 40,
+    "realParam": 82,
+    "showTips": 82,
+    "price": 22126
+  },
+  {
+    "id": 41,
+    "realParam": 83,
+    "showTips": 83,
+    "price": 22703
+  },
+  {
+    "id": 42,
+    "realParam": 84,
+    "showTips": 84,
+    "price": 23820
+  },
+  {
+    "id": 43,
+    "realParam": 85,
+    "showTips": 85,
+    "price": 25009
+  },
+  {
+    "id": 44,
+    "realParam": 86,
+    "showTips": 86,
+    "price": 26486
+  },
+  {
+    "id": 45,
+    "realParam": 87,
+    "showTips": 87,
+    "price": 27712
+  },
+  {
+    "id": 46,
+    "realParam": 88,
+    "showTips": 88,
+    "price": 29297
+  },
+  {
+    "id": 47,
+    "realParam": 89,
+    "showTips": 89,
+    "price": 30559
+  },
+  {
+    "id": 48,
+    "realParam": 90,
+    "showTips": 90,
+    "price": 32216
+  },
+  {
+    "id": 49,
+    "realParam": 91,
+    "showTips": 91,
+    "price": 33910
+  },
+  {
+    "id": 50,
+    "realParam": 92,
+    "showTips": 92,
+    "price": 44973
+  },
+  {
+    "id": 51,
+    "realParam": 93,
+    "showTips": 93,
+    "price": 47207
+  },
+  {
+    "id": 52,
+    "realParam": 94,
+    "showTips": 94,
+    "price": 49477
+  },
+  {
+    "id": 53,
+    "realParam": 95,
+    "showTips": 95,
+    "price": 52252
+  },
+  {
+    "id": 54,
+    "realParam": 96,
+    "showTips": 96,
+    "price": 55099
+  },
+  {
+    "id": 55,
+    "realParam": 97,
+    "showTips": 97,
+    "price": 58018
+  },
+  {
+    "id": 56,
+    "realParam": 98,
+    "showTips": 98,
+    "price": 60072
+  },
+  {
+    "id": 57,
+    "realParam": 99,
+    "showTips": 99,
+    "price": 62595
+  },
+  {
+    "id": 58,
+    "realParam": 100,
+    "showTips": 100,
+    "price": 65225
+  },
+  {
+    "id": 59,
+    "realParam": 101,
+    "showTips": 101,
+    "price": 67856
+  },
+  {
+    "id": 60,
+    "realParam": 102,
+    "showTips": 102,
+    "price": 84685
+  },
+  {
+    "id": 61,
+    "realParam": 103,
+    "showTips": 103,
+    "price": 88649
+  },
+  {
+    "id": 62,
+    "realParam": 104,
+    "showTips": 104,
+    "price": 92000
+  },
+  {
+    "id": 63,
+    "realParam": 105,
+    "showTips": 105,
+    "price": 96108
+  },
+  {
+    "id": 64,
+    "realParam": 106,
+    "showTips": 106,
+    "price": 99640
+  },
+  {
+    "id": 65,
+    "realParam": 107,
+    "showTips": 107,
+    "price": 103892
+  },
+  {
+    "id": 66,
+    "realParam": 108,
+    "showTips": 108,
+    "price": 108216
+  },
+  {
+    "id": 67,
+    "realParam": 109,
+    "showTips": 109,
+    "price": 112649
+  },
+  {
+    "id": 68,
+    "realParam": 110,
+    "showTips": 110,
+    "price": 153369
+  },
+  {
+    "id": 69,
+    "realParam": 111,
+    "showTips": 111,
+    "price": 157550
+  },
+  {
+    "id": 70,
+    "realParam": 112,
+    "showTips": 112,
+    "price": 187604
+  },
+  {
+    "id": 71,
+    "realParam": 113,
+    "showTips": 113,
+    "price": 191423
+  },
+  {
+    "id": 72,
+    "realParam": 114,
+    "showTips": 114,
+    "price": 195279
+  },
+  {
+    "id": 73,
+    "realParam": 115,
+    "showTips": 115,
+    "price": 200360
+  },
+  {
+    "id": 74,
+    "realParam": 116,
+    "showTips": 116,
+    "price": 204288
+  },
+  {
+    "id": 75,
+    "realParam": 117,
+    "showTips": 117,
+    "price": 208252
+  },
+  {
+    "id": 76,
+    "realParam": 118,
+    "showTips": 118,
+    "price": 212252
+  },
+  {
+    "id": 77,
+    "realParam": 119,
+    "showTips": 119,
+    "price": 217550
+  },
+  {
+    "id": 78,
+    "realParam": 120,
+    "showTips": 120,
+    "price": 221622
+  },
+  {
+    "id": 79,
+    "realParam": 121,
+    "showTips": 121,
+    "price": 225730
+  },
+  {
+    "id": 80,
+    "realParam": 122,
+    "showTips": 122,
+    "price": 262739
+  },
+  {
+    "id": 81,
+    "realParam": 123,
+    "showTips": 123,
+    "price": 269009
+  },
+  {
+    "id": 82,
+    "realParam": 124,
+    "showTips": 124,
+    "price": 273838
+  },
+  {
+    "id": 83,
+    "realParam": 125,
+    "showTips": 125,
+    "price": 278703
+  },
+  {
+    "id": 84,
+    "realParam": 126,
+    "showTips": 126,
+    "price": 283604
+  },
+  {
+    "id": 85,
+    "realParam": 127,
+    "showTips": 127,
+    "price": 290126
+  },
+  {
+    "id": 86,
+    "realParam": 128,
+    "showTips": 128,
+    "price": 295135
+  },
+  {
+    "id": 87,
+    "realParam": 129,
+    "showTips": 129,
+    "price": 300180
+  },
+  {
+    "id": 88,
+    "realParam": 130,
+    "showTips": 130,
+    "price": 305261
+  },
+  {
+    "id": 89,
+    "realParam": 131,
+    "showTips": 131,
+    "price": 312000
+  },
+  {
+    "id": 90,
+    "realParam": 132,
+    "showTips": 132,
+    "price": 356793
+  },
+  {
+    "id": 91,
+    "realParam": 133,
+    "showTips": 133,
+    "price": 367497
+  },
+  {
+    "id": 92,
+    "realParam": 134,
+    "showTips": 134,
+    "price": 378521
+  },
+  {
+    "id": 93,
+    "realParam": 135,
+    "showTips": 135,
+    "price": 389877
+  },
+  {
+    "id": 94,
+    "realParam": 136,
+    "showTips": 136,
+    "price": 401573
+  },
+  {
+    "id": 95,
+    "realParam": 137,
+    "showTips": 137,
+    "price": 413621
+  },
+  {
+    "id": 96,
+    "realParam": 138,
+    "showTips": 138,
+    "price": 426029
+  },
+  {
+    "id": 97,
+    "realParam": 139,
+    "showTips": 139,
+    "price": 438810
+  },
+  {
+    "id": 98,
+    "realParam": 140,
+    "showTips": 140,
+    "price": 451974
+  },
+  {
+    "id": 99,
+    "realParam": 141,
+    "showTips": 141,
+    "price": 465534
+  },
+  {
+    "id": 100,
+    "realParam": 142,
+    "showTips": 142,
+    "price": 479500
+  }
+]

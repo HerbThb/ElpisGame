@@ -1,0 +1,46 @@
+[
+  {
+    "id": 0,
+    "name": "红宝箱",
+    "blood": 10,
+    "param": [
+      4,
+      10
+    ],
+    "refreshTime": [
+      15,
+      30
+    ],
+    "weight": 45
+  },
+  {
+    "id": 1,
+    "name": "金宝箱",
+    "blood": 20,
+    "param": [
+      100,
+      500
+    ],
+    "refreshTime": [
+      15,
+      30
+    ],
+    "weight": 35
+  },
+  {
+    "id": 2,
+    "name": "蓝宝箱",
+    "blood": 15,
+    "param": [
+      50,
+      50,
+      10,
+      25
+    ],
+    "refreshTime": [
+      15,
+      30
+    ],
+    "weight": 20
+  }
+]
